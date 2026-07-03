@@ -1,0 +1,1164 @@
+MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=MAVLink 2 基础交互输出记录
+开始时间: 2026-07-03 16:49:31
+监听端口: UDP 14551（QGC 使用 14550）
+=
+[输出] 日志文件: E:\实习\workspace\无人机通信\20260703Python与MAVLink 2基础交互\mavlink_output_20260703_164931.txt
+[说明] 本脚本仅监听数据；请在 QGC 中解锁、起飞或执行航线，姿态与位置数据会随之变化。
+[连接] 正在监听: udpin:0.0.0.0:14551
+[连接] 等待 HEARTBEAT（请确认 SITL 已启动且 --out 包含 14551）...
+[连接] 已收到心跳 | target_system=1, target_component=0
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[请求] SET_MESSAGE_INTERVAL -> ATTITUDE @ 4Hz
+[请求] SET_MESSAGE_INTERVAL -> GLOBAL_POSITION_INT @ 4Hz
+[请求] REQUEST_DATA_STREAM -> 姿态(ATTITUDE)
+[请求] REQUEST_DATA_STREAM -> 位置(GLOBAL_POSITION_INT)
+[接收] 开始监听（可在 QGC 中操作飞机，Ctrl+C 退出）
+------------------------------------------------------------------------
+[ATTITUDE]            roll=   0.11°, pitch=   0.11°, yaw=  -6.00°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652375°, alt=584.12m, relative_alt=0.07m
+[ATTITUDE]            roll=   0.05°, pitch=   0.05°, yaw=  -6.00°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652375°, alt=584.22m, relative_alt=0.17m
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.04°, yaw=  -6.01°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652375°, alt=584.50m, relative_alt=0.45m
+[ATTITUDE]            roll=   0.04°, pitch=   0.04°, yaw=  -6.01°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652374°, alt=584.79m, relative_alt=0.73m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.08°, pitch=   0.07°, yaw=  -6.01°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652374°, alt=585.11m, relative_alt=1.06m
+[ATTITUDE]            roll=   0.11°, pitch=   0.10°, yaw=  -6.01°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652374°, alt=585.50m, relative_alt=1.45m
+[ATTITUDE]            roll=   0.14°, pitch=   0.12°, yaw=  -6.01°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652374°, alt=585.95m, relative_alt=1.89m
+[ATTITUDE]            roll=   0.17°, pitch=   0.14°, yaw=  -6.01°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.41m, relative_alt=2.35m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.18°, pitch=   0.15°, yaw=  -7.41°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.85m, relative_alt=2.79m
+[ATTITUDE]            roll=   0.19°, pitch=   0.18°, yaw=  -7.41°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=587.25m, relative_alt=3.19m
+[ATTITUDE]            roll=   0.20°, pitch=   0.19°, yaw=  -7.39°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652373°, alt=587.61m, relative_alt=3.56m
+[ATTITUDE]            roll=   0.20°, pitch=   0.19°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652373°, alt=587.93m, relative_alt=3.87m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.20°, pitch=   0.18°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652373°, alt=588.21m, relative_alt=4.15m
+[ATTITUDE]            roll=   0.22°, pitch=   0.19°, yaw=  -7.39°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=588.45m, relative_alt=4.39m
+[ATTITUDE]            roll=   0.22°, pitch=   0.21°, yaw=  -7.39°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=588.65m, relative_alt=4.59m
+[ATTITUDE]            roll=   0.21°, pitch=   0.21°, yaw=  -7.40°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=588.82m, relative_alt=4.76m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.21°, pitch=   0.19°, yaw=  -7.40°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=588.95m, relative_alt=4.89m
+[ATTITUDE]            roll=   0.22°, pitch=   0.19°, yaw=  -7.40°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=589.04m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.26°, pitch=   0.21°, yaw=  -7.40°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=589.09m, relative_alt=5.04m
+[ATTITUDE]            roll=   0.25°, pitch=  -0.53°, yaw=  -7.40°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=589.10m, relative_alt=5.04m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.22°, pitch=  -2.18°, yaw=  -7.41°
+[GLOBAL_POSITION_INT] lat=-35.3632619°, lon=149.1652372°, alt=589.08m, relative_alt=5.03m
+[ATTITUDE]            roll=   0.20°, pitch=  -3.72°, yaw=  -7.42°
+[GLOBAL_POSITION_INT] lat=-35.3632617°, lon=149.1652372°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.19°, pitch=  -5.16°, yaw=  -7.45°
+[GLOBAL_POSITION_INT] lat=-35.3632610°, lon=149.1652371°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.18°, pitch=  -6.64°, yaw=  -7.48°
+[GLOBAL_POSITION_INT] lat=-35.3632599°, lon=149.1652370°, alt=589.04m, relative_alt=4.98m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.14°, pitch=  -8.24°, yaw=  -7.51°
+[GLOBAL_POSITION_INT] lat=-35.3632583°, lon=149.1652367°, alt=589.04m, relative_alt=4.98m
+[ATTITUDE]            roll=   0.13°, pitch=  -9.90°, yaw=  -7.51°
+[GLOBAL_POSITION_INT] lat=-35.3632560°, lon=149.1652364°, alt=589.04m, relative_alt=4.98m
+[ATTITUDE]            roll=   0.12°, pitch= -11.77°, yaw=  -7.46°
+[GLOBAL_POSITION_INT] lat=-35.3632529°, lon=149.1652359°, alt=589.04m, relative_alt=4.98m
+[ATTITUDE]            roll=   0.09°, pitch= -13.73°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3632489°, lon=149.1652353°, alt=589.04m, relative_alt=4.98m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.04°, pitch= -15.82°, yaw=  -7.28°
+[GLOBAL_POSITION_INT] lat=-35.3632439°, lon=149.1652346°, alt=589.04m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.01°, pitch= -17.99°, yaw=  -7.22°
+[GLOBAL_POSITION_INT] lat=-35.3632379°, lon=149.1652337°, alt=589.04m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.01°, pitch= -19.45°, yaw=  -7.21°
+[GLOBAL_POSITION_INT] lat=-35.3632306°, lon=149.1652325°, alt=589.04m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.01°, pitch= -20.57°, yaw=  -7.24°
+[GLOBAL_POSITION_INT] lat=-35.3632220°, lon=149.1652312°, alt=589.04m, relative_alt=4.99m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.00°, pitch= -21.94°, yaw=  -7.29°
+[GLOBAL_POSITION_INT] lat=-35.3632122°, lon=149.1652297°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.01°, pitch= -23.43°, yaw=  -7.35°
+[GLOBAL_POSITION_INT] lat=-35.3632013°, lon=149.1652279°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.03°, pitch= -25.01°, yaw=  -7.39°
+[GLOBAL_POSITION_INT] lat=-35.3631891°, lon=149.1652260°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.05°, pitch= -26.65°, yaw=  -7.41°
+[GLOBAL_POSITION_INT] lat=-35.3631757°, lon=149.1652239°, alt=589.05m, relative_alt=4.99m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.03°, pitch= -27.69°, yaw=  -7.40°
+[GLOBAL_POSITION_INT] lat=-35.3631611°, lon=149.1652216°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.03°, pitch= -28.15°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3631453°, lon=149.1652191°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.05°, pitch= -28.63°, yaw=  -7.34°
+[GLOBAL_POSITION_INT] lat=-35.3631286°, lon=149.1652165°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.05°, pitch= -28.95°, yaw=  -7.33°
+[GLOBAL_POSITION_INT] lat=-35.3631108°, lon=149.1652136°, alt=589.05m, relative_alt=4.99m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.09°, pitch= -29.18°, yaw=  -7.33°
+[GLOBAL_POSITION_INT] lat=-35.3630922°, lon=149.1652107°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.10°, pitch= -29.36°, yaw=  -7.34°
+[GLOBAL_POSITION_INT] lat=-35.3630729°, lon=149.1652076°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.11°, pitch= -29.37°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3630530°, lon=149.1652044°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.14°, pitch= -29.28°, yaw=  -7.39°
+[GLOBAL_POSITION_INT] lat=-35.3630326°, lon=149.1652012°, alt=589.05m, relative_alt=4.99m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.14°, pitch= -28.87°, yaw=  -7.40°
+[GLOBAL_POSITION_INT] lat=-35.3630117°, lon=149.1651979°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.13°, pitch= -28.38°, yaw=  -7.40°
+[GLOBAL_POSITION_INT] lat=-35.3629906°, lon=149.1651945°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.13°, pitch= -27.85°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3629693°, lon=149.1651911°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.15°, pitch= -27.90°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3629479°, lon=149.1651877°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.14°, pitch= -28.10°, yaw=  -7.35°
+[GLOBAL_POSITION_INT] lat=-35.3629264°, lon=149.1651843°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.16°, pitch= -28.24°, yaw=  -7.35°
+[GLOBAL_POSITION_INT] lat=-35.3629048°, lon=149.1651809°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.18°, pitch= -28.33°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3628832°, lon=149.1651775°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.19°, pitch= -28.43°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3628615°, lon=149.1651740°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.18°, pitch= -28.45°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3628396°, lon=149.1651706°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.21°, pitch= -28.41°, yaw=  -7.39°
+[GLOBAL_POSITION_INT] lat=-35.3628178°, lon=149.1651671°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.22°, pitch= -28.45°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3627960°, lon=149.1651637°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.20°, pitch= -28.45°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3627741°, lon=149.1651602°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.18°, pitch= -28.40°, yaw=  -7.35°
+[GLOBAL_POSITION_INT] lat=-35.3627520°, lon=149.1651567°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.18°, pitch= -28.42°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3627300°, lon=149.1651533°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.18°, pitch= -28.45°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3627080°, lon=149.1651498°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.17°, pitch= -28.49°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3626860°, lon=149.1651464°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.17°, pitch= -28.52°, yaw=  -7.39°
+[GLOBAL_POSITION_INT] lat=-35.3626640°, lon=149.1651429°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.16°, pitch= -28.48°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3626419°, lon=149.1651394°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.15°, pitch= -28.53°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3626198°, lon=149.1651360°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.15°, pitch= -28.60°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3625978°, lon=149.1651325°, alt=589.06m, relative_alt=5.01m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.15°, pitch= -28.53°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3625756°, lon=149.1651290°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.18°, pitch= -28.52°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3625535°, lon=149.1651255°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.19°, pitch= -28.57°, yaw=  -7.39°
+[GLOBAL_POSITION_INT] lat=-35.3625315°, lon=149.1651220°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.18°, pitch= -28.60°, yaw=  -7.39°
+[GLOBAL_POSITION_INT] lat=-35.3625094°, lon=149.1651186°, alt=589.06m, relative_alt=5.01m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.17°, pitch= -28.70°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3624873°, lon=149.1651151°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.16°, pitch= -28.37°, yaw=  -7.38°
+[GLOBAL_POSITION_INT] lat=-35.3624651°, lon=149.1651116°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.16°, pitch= -27.20°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3624430°, lon=149.1651081°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.16°, pitch= -25.83°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3624211°, lon=149.1651047°, alt=589.06m, relative_alt=5.01m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.16°, pitch= -24.17°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3623995°, lon=149.1651013°, alt=589.07m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.17°, pitch= -22.25°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3623782°, lon=149.1650979°, alt=589.07m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.17°, pitch= -20.16°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3623576°, lon=149.1650947°, alt=589.07m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.17°, pitch= -17.71°, yaw=  -7.37°
+[GLOBAL_POSITION_INT] lat=-35.3623376°, lon=149.1650915°, alt=589.07m, relative_alt=5.01m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.16°, pitch= -14.96°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3623183°, lon=149.1650885°, alt=589.07m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.14°, pitch= -11.78°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3623000°, lon=149.1650856°, alt=589.07m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.13°, pitch=  -8.31°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3622828°, lon=149.1650829°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.10°, pitch=  -4.87°, yaw=  -7.35°
+[GLOBAL_POSITION_INT] lat=-35.3622670°, lon=149.1650804°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.09°, pitch=  -2.30°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3622523°, lon=149.1650781°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.08°, pitch=   0.22°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3622389°, lon=149.1650760°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.07°, pitch=   2.72°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3622270°, lon=149.1650742°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   0.06°, pitch=   5.18°, yaw=  -7.36°
+[GLOBAL_POSITION_INT] lat=-35.3622164°, lon=149.1650725°, alt=589.05m, relative_alt=4.99m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.70°, pitch=   7.87°, yaw=  -7.32°
+[GLOBAL_POSITION_INT] lat=-35.3622072°, lon=149.1650711°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   2.18°, pitch=  10.58°, yaw=  -6.90°
+[GLOBAL_POSITION_INT] lat=-35.3621996°, lon=149.1650700°, alt=589.05m, relative_alt=4.99m
+[ATTITUDE]            roll=   3.95°, pitch=  11.84°, yaw=  -5.37°
+[GLOBAL_POSITION_INT] lat=-35.3621935°, lon=149.1650694°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   6.33°, pitch=  12.23°, yaw=  -1.29°
+[GLOBAL_POSITION_INT] lat=-35.3621889°, lon=149.1650694°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   9.78°, pitch=  11.33°, yaw=   7.67°
+[GLOBAL_POSITION_INT] lat=-35.3621858°, lon=149.1650700°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  13.87°, pitch=   7.98°, yaw=  22.37°
+[GLOBAL_POSITION_INT] lat=-35.3621840°, lon=149.1650717°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  16.82°, pitch=   1.85°, yaw=  40.95°
+[GLOBAL_POSITION_INT] lat=-35.3621835°, lon=149.1650743°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  16.78°, pitch=  -6.00°, yaw=  61.63°
+[GLOBAL_POSITION_INT] lat=-35.3621841°, lon=149.1650782°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  13.02°, pitch= -13.28°, yaw=  82.90°
+[GLOBAL_POSITION_INT] lat=-35.3621860°, lon=149.1650833°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   6.77°, pitch= -18.21°, yaw= 102.82°
+[GLOBAL_POSITION_INT] lat=-35.3621887°, lon=149.1650897°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.08°, pitch= -20.02°, yaw= 119.86°
+[GLOBAL_POSITION_INT] lat=-35.3621923°, lon=149.1650975°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  -5.20°, pitch= -19.34°, yaw= 132.25°
+[GLOBAL_POSITION_INT] lat=-35.3621966°, lon=149.1651066°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -6.80°, pitch= -18.45°, yaw= 137.44°
+[GLOBAL_POSITION_INT] lat=-35.3622013°, lon=149.1651170°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  -6.00°, pitch= -18.45°, yaw= 135.86°
+[GLOBAL_POSITION_INT] lat=-35.3622064°, lon=149.1651286°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  -3.76°, pitch= -18.97°, yaw= 129.33°
+[GLOBAL_POSITION_INT] lat=-35.3622118°, lon=149.1651412°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=  -0.83°, pitch= -19.48°, yaw= 120.27°
+[GLOBAL_POSITION_INT] lat=-35.3622175°, lon=149.1651545°, alt=589.06m, relative_alt=5.01m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   1.74°, pitch= -19.57°, yaw= 111.48°
+[GLOBAL_POSITION_INT] lat=-35.3622234°, lon=149.1651686°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   3.03°, pitch= -19.36°, yaw= 105.92°
+[GLOBAL_POSITION_INT] lat=-35.3622297°, lon=149.1651832°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   2.88°, pitch= -19.07°, yaw= 104.86°
+[GLOBAL_POSITION_INT] lat=-35.3622361°, lon=149.1651984°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=   1.65°, pitch= -18.80°, yaw= 107.59°
+[GLOBAL_POSITION_INT] lat=-35.3622428°, lon=149.1652140°, alt=589.06m, relative_alt=5.01m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.00°, pitch= -18.45°, yaw= 112.48°
+[GLOBAL_POSITION_INT] lat=-35.3622494°, lon=149.1652299°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=  -1.34°, pitch= -17.79°, yaw= 117.48°
+[GLOBAL_POSITION_INT] lat=-35.3622561°, lon=149.1652461°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=  -1.88°, pitch= -17.31°, yaw= 120.79°
+[GLOBAL_POSITION_INT] lat=-35.3622627°, lon=149.1652625°, alt=589.06m, relative_alt=5.01m
+[ATTITUDE]            roll=  -1.71°, pitch= -17.61°, yaw= 121.54°
+[GLOBAL_POSITION_INT] lat=-35.3622692°, lon=149.1652790°, alt=589.06m, relative_alt=5.01m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.98°, pitch= -17.87°, yaw= 119.95°
+[GLOBAL_POSITION_INT] lat=-35.3622758°, lon=149.1652955°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.02°, pitch= -18.05°, yaw= 117.05°
+[GLOBAL_POSITION_INT] lat=-35.3622823°, lon=149.1653122°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.75°, pitch= -18.11°, yaw= 114.15°
+[GLOBAL_POSITION_INT] lat=-35.3622888°, lon=149.1653290°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   1.09°, pitch= -18.06°, yaw= 112.30°
+[GLOBAL_POSITION_INT] lat=-35.3622955°, lon=149.1653458°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   1.00°, pitch= -18.06°, yaw= 111.98°
+[GLOBAL_POSITION_INT] lat=-35.3623022°, lon=149.1653627°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.56°, pitch= -18.08°, yaw= 112.99°
+[GLOBAL_POSITION_INT] lat=-35.3623089°, lon=149.1653795°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.01°, pitch= -17.93°, yaw= 114.72°
+[GLOBAL_POSITION_INT] lat=-35.3623156°, lon=149.1653966°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.38°, pitch= -16.84°, yaw= 116.38°
+[GLOBAL_POSITION_INT] lat=-35.3623223°, lon=149.1654136°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.45°, pitch= -15.25°, yaw= 117.37°
+[GLOBAL_POSITION_INT] lat=-35.3623290°, lon=149.1654304°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.11°, pitch= -13.80°, yaw= 117.50°
+[GLOBAL_POSITION_INT] lat=-35.3623355°, lon=149.1654471°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   1.60°, pitch= -12.79°, yaw= 116.96°
+[GLOBAL_POSITION_INT] lat=-35.3623419°, lon=149.1654634°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   3.18°, pitch= -11.59°, yaw= 116.31°
+[GLOBAL_POSITION_INT] lat=-35.3623482°, lon=149.1654792°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   4.62°, pitch= -10.31°, yaw= 116.25°
+[GLOBAL_POSITION_INT] lat=-35.3623547°, lon=149.1654943°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   5.94°, pitch=  -9.05°, yaw= 117.32°
+[GLOBAL_POSITION_INT] lat=-35.3623612°, lon=149.1655086°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   7.26°, pitch=  -7.83°, yaw= 119.83°
+[GLOBAL_POSITION_INT] lat=-35.3623680°, lon=149.1655221°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   8.68°, pitch=  -6.87°, yaw= 123.79°
+[GLOBAL_POSITION_INT] lat=-35.3623751°, lon=149.1655346°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  10.29°, pitch=  -6.47°, yaw= 128.97°
+[GLOBAL_POSITION_INT] lat=-35.3623825°, lon=149.1655459°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  11.68°, pitch=  -7.36°, yaw= 135.04°
+[GLOBAL_POSITION_INT] lat=-35.3623903°, lon=149.1655560°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  11.87°, pitch=  -9.21°, yaw= 141.83°
+[GLOBAL_POSITION_INT] lat=-35.3623986°, lon=149.1655648°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  10.69°, pitch= -10.90°, yaw= 149.15°
+[GLOBAL_POSITION_INT] lat=-35.3624075°, lon=149.1655723°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   9.14°, pitch= -11.81°, yaw= 156.30°
+[GLOBAL_POSITION_INT] lat=-35.3624168°, lon=149.1655788°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   7.73°, pitch= -12.45°, yaw= 162.31°
+[GLOBAL_POSITION_INT] lat=-35.3624265°, lon=149.1655842°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   6.52°, pitch= -12.70°, yaw= 166.74°
+[GLOBAL_POSITION_INT] lat=-35.3624367°, lon=149.1655888°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   5.47°, pitch= -12.58°, yaw= 169.46°
+[GLOBAL_POSITION_INT] lat=-35.3624472°, lon=149.1655926°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   4.58°, pitch= -12.33°, yaw= 170.77°
+[GLOBAL_POSITION_INT] lat=-35.3624579°, lon=149.1655957°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   3.68°, pitch= -11.94°, yaw= 171.19°
+[GLOBAL_POSITION_INT] lat=-35.3624688°, lon=149.1655983°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   2.65°, pitch= -11.46°, yaw= 171.26°
+[GLOBAL_POSITION_INT] lat=-35.3624798°, lon=149.1656005°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   1.45°, pitch= -11.20°, yaw= 171.29°
+[GLOBAL_POSITION_INT] lat=-35.3624908°, lon=149.1656024°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.57°, pitch= -11.64°, yaw= 171.37°
+[GLOBAL_POSITION_INT] lat=-35.3625019°, lon=149.1656041°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.49°, pitch= -11.77°, yaw= 171.46°
+[GLOBAL_POSITION_INT] lat=-35.3625130°, lon=149.1656058°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.47°, pitch= -11.82°, yaw= 171.50°
+[GLOBAL_POSITION_INT] lat=-35.3625240°, lon=149.1656074°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.38°, pitch= -11.76°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3625352°, lon=149.1656090°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.25°, pitch= -11.71°, yaw= 171.42°
+[GLOBAL_POSITION_INT] lat=-35.3625463°, lon=149.1656106°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.16°, pitch= -11.69°, yaw= 171.38°
+[GLOBAL_POSITION_INT] lat=-35.3625575°, lon=149.1656122°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.07°, pitch= -11.67°, yaw= 171.37°
+[GLOBAL_POSITION_INT] lat=-35.3625686°, lon=149.1656138°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.00°, pitch= -11.74°, yaw= 171.39°
+[GLOBAL_POSITION_INT] lat=-35.3625798°, lon=149.1656155°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch= -11.67°, yaw= 171.43°
+[GLOBAL_POSITION_INT] lat=-35.3625910°, lon=149.1656172°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.08°, pitch= -11.66°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3626021°, lon=149.1656189°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.10°, pitch= -11.68°, yaw= 171.49°
+[GLOBAL_POSITION_INT] lat=-35.3626132°, lon=149.1656207°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.11°, pitch= -11.64°, yaw= 171.49°
+[GLOBAL_POSITION_INT] lat=-35.3626244°, lon=149.1656225°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.06°, pitch= -11.59°, yaw= 171.49°
+[GLOBAL_POSITION_INT] lat=-35.3626356°, lon=149.1656244°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.00°, pitch= -11.60°, yaw= 171.49°
+[GLOBAL_POSITION_INT] lat=-35.3626467°, lon=149.1656263°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.02°, pitch= -11.63°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3626578°, lon=149.1656282°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.01°, pitch= -11.66°, yaw= 171.46°
+[GLOBAL_POSITION_INT] lat=-35.3626690°, lon=149.1656301°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.02°, pitch= -11.62°, yaw= 171.43°
+[GLOBAL_POSITION_INT] lat=-35.3626801°, lon=149.1656321°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.05°, pitch= -11.57°, yaw= 171.40°
+[GLOBAL_POSITION_INT] lat=-35.3626912°, lon=149.1656340°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.07°, pitch= -11.62°, yaw= 171.38°
+[GLOBAL_POSITION_INT] lat=-35.3627023°, lon=149.1656360°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch= -11.67°, yaw= 171.38°
+[GLOBAL_POSITION_INT] lat=-35.3627134°, lon=149.1656380°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.10°, pitch= -11.58°, yaw= 171.41°
+[GLOBAL_POSITION_INT] lat=-35.3627246°, lon=149.1656400°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.10°, pitch= -11.59°, yaw= 171.45°
+[GLOBAL_POSITION_INT] lat=-35.3627357°, lon=149.1656420°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.10°, pitch= -11.60°, yaw= 171.45°
+[GLOBAL_POSITION_INT] lat=-35.3627468°, lon=149.1656440°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.11°, pitch= -11.61°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3627579°, lon=149.1656460°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.12°, pitch= -11.63°, yaw= 171.42°
+[GLOBAL_POSITION_INT] lat=-35.3627690°, lon=149.1656480°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.12°, pitch= -11.59°, yaw= 171.42°
+[GLOBAL_POSITION_INT] lat=-35.3627802°, lon=149.1656500°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.12°, pitch= -11.60°, yaw= 171.43°
+[GLOBAL_POSITION_INT] lat=-35.3627913°, lon=149.1656520°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.12°, pitch= -11.63°, yaw= 171.43°
+[GLOBAL_POSITION_INT] lat=-35.3628023°, lon=149.1656541°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.13°, pitch= -11.58°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3628135°, lon=149.1656561°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.12°, pitch= -11.56°, yaw= 171.46°
+[GLOBAL_POSITION_INT] lat=-35.3628246°, lon=149.1656581°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.10°, pitch= -11.57°, yaw= 171.46°
+[GLOBAL_POSITION_INT] lat=-35.3628357°, lon=149.1656601°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.11°, pitch= -11.59°, yaw= 171.45°
+[GLOBAL_POSITION_INT] lat=-35.3628468°, lon=149.1656621°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.11°, pitch= -11.61°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3628579°, lon=149.1656641°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.10°, pitch= -11.55°, yaw= 171.43°
+[GLOBAL_POSITION_INT] lat=-35.3628691°, lon=149.1656662°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch= -11.56°, yaw= 171.42°
+[GLOBAL_POSITION_INT] lat=-35.3628802°, lon=149.1656682°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.11°, pitch= -11.65°, yaw= 171.41°
+[GLOBAL_POSITION_INT] lat=-35.3628912°, lon=149.1656702°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.10°, pitch= -11.65°, yaw= 171.42°
+[GLOBAL_POSITION_INT] lat=-35.3629023°, lon=149.1656722°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch= -11.58°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3629135°, lon=149.1656743°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch= -11.58°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3629246°, lon=149.1656763°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.10°, pitch= -11.59°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3629357°, lon=149.1656783°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.11°, pitch= -11.62°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3629468°, lon=149.1656804°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.11°, pitch= -11.60°, yaw= 171.45°
+[GLOBAL_POSITION_INT] lat=-35.3629579°, lon=149.1656824°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.11°, pitch= -11.55°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3629690°, lon=149.1656844°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.11°, pitch= -11.58°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3629801°, lon=149.1656865°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.09°, pitch= -11.58°, yaw= 171.45°
+[GLOBAL_POSITION_INT] lat=-35.3629912°, lon=149.1656885°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.08°, pitch= -11.53°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3630024°, lon=149.1656905°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch= -11.54°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3630135°, lon=149.1656926°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.11°, pitch= -11.55°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3630246°, lon=149.1656946°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.11°, pitch= -11.57°, yaw= 171.45°
+[GLOBAL_POSITION_INT] lat=-35.3630357°, lon=149.1656966°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.10°, pitch= -11.57°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3630468°, lon=149.1656987°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch= -10.88°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3630579°, lon=149.1657007°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch=  -9.31°, yaw= 171.45°
+[GLOBAL_POSITION_INT] lat=-35.3630689°, lon=149.1657027°, alt=589.06m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.09°, pitch=  -7.53°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3630796°, lon=149.1657047°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch=  -5.54°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3630901°, lon=149.1657066°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch=  -3.36°, yaw= 171.49°
+[GLOBAL_POSITION_INT] lat=-35.3631000°, lon=149.1657084°, alt=589.06m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.09°, pitch=  -1.01°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3631094°, lon=149.1657101°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.07°, pitch=   1.56°, yaw= 171.46°
+[GLOBAL_POSITION_INT] lat=-35.3631180°, lon=149.1657117°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=   0.03°, pitch=   4.28°, yaw= 171.45°
+[GLOBAL_POSITION_INT] lat=-35.3631258°, lon=149.1657131°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.01°, pitch=   6.87°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3631325°, lon=149.1657143°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.04°, pitch=   8.17°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3631381°, lon=149.1657153°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.06°, pitch=   8.10°, yaw= 171.43°
+[GLOBAL_POSITION_INT] lat=-35.3631426°, lon=149.1657161°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.09°, pitch=   7.51°, yaw= 171.43°
+[GLOBAL_POSITION_INT] lat=-35.3631460°, lon=149.1657166°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.14°, pitch=   6.81°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3631485°, lon=149.1657171°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.13°, pitch=   5.97°, yaw= 171.46°
+[GLOBAL_POSITION_INT] lat=-35.3631502°, lon=149.1657174°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.12°, pitch=   4.95°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3631512°, lon=149.1657175°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.13°, pitch=   3.78°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631518°, lon=149.1657176°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.13°, pitch=   2.47°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631519°, lon=149.1657176°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.09°, pitch=   0.99°, yaw= 171.49°
+[GLOBAL_POSITION_INT] lat=-35.3631519°, lon=149.1657176°, alt=589.05m, relative_alt=5.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.11°, yaw= 171.49°
+[GLOBAL_POSITION_INT] lat=-35.3631517°, lon=149.1657176°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.02°, pitch=  -0.37°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631515°, lon=149.1657176°, alt=589.05m, relative_alt=5.00m
+[ATTITUDE]            roll=  -0.00°, pitch=  -0.37°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631513°, lon=149.1657176°, alt=589.07m, relative_alt=5.01m
+[ATTITUDE]            roll=   0.02°, pitch=  -0.36°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631512°, lon=149.1657176°, alt=589.11m, relative_alt=5.05m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.04°, pitch=  -0.33°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631511°, lon=149.1657176°, alt=589.19m, relative_alt=5.13m
+[ATTITUDE]            roll=   0.05°, pitch=  -0.29°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631510°, lon=149.1657176°, alt=589.32m, relative_alt=5.26m
+[ATTITUDE]            roll=   0.06°, pitch=  -0.24°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631509°, lon=149.1657177°, alt=589.50m, relative_alt=5.45m
+[ATTITUDE]            roll=   0.07°, pitch=  -0.20°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631509°, lon=149.1657177°, alt=589.75m, relative_alt=5.70m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.09°, pitch=  -0.14°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631509°, lon=149.1657177°, alt=590.05m, relative_alt=6.00m
+[ATTITUDE]            roll=   0.08°, pitch=  -0.09°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3631509°, lon=149.1657177°, alt=590.41m, relative_alt=6.36m
+[ATTITUDE]            roll=   0.07°, pitch=  -0.05°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3631509°, lon=149.1657178°, alt=590.83m, relative_alt=6.77m
+[ATTITUDE]            roll=   0.10°, pitch=  -0.04°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3631509°, lon=149.1657178°, alt=591.30m, relative_alt=7.24m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.10°, pitch=  -0.03°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3631509°, lon=149.1657178°, alt=591.82m, relative_alt=7.77m
+[ATTITUDE]            roll=   0.11°, pitch=  -0.00°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631510°, lon=149.1657179°, alt=592.39m, relative_alt=8.34m
+[ATTITUDE]            roll=   0.10°, pitch=   0.01°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631510°, lon=149.1657179°, alt=592.99m, relative_alt=8.94m
+[ATTITUDE]            roll=   0.11°, pitch=   0.00°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3631510°, lon=149.1657179°, alt=593.61m, relative_alt=9.55m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.10°, pitch=  -0.01°, yaw= 171.47°
+[GLOBAL_POSITION_INT] lat=-35.3631510°, lon=149.1657179°, alt=594.22m, relative_alt=10.17m
+[ATTITUDE]            roll=   0.29°, pitch=  -0.01°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631510°, lon=149.1657179°, alt=594.84m, relative_alt=10.78m
+[ATTITUDE]            roll=   1.62°, pitch=  -0.20°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631510°, lon=149.1657179°, alt=595.44m, relative_alt=11.39m
+[ATTITUDE]            roll=   3.27°, pitch=  -0.41°, yaw= 171.48°
+[GLOBAL_POSITION_INT] lat=-35.3631511°, lon=149.1657177°, alt=596.04m, relative_alt=11.98m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   4.96°, pitch=  -0.63°, yaw= 171.46°
+[GLOBAL_POSITION_INT] lat=-35.3631512°, lon=149.1657171°, alt=596.60m, relative_alt=12.55m
+[ATTITUDE]            roll=   6.78°, pitch=  -0.85°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3631515°, lon=149.1657160°, alt=597.13m, relative_alt=13.07m
+[ATTITUDE]            roll=   8.74°, pitch=  -1.09°, yaw= 171.41°
+[GLOBAL_POSITION_INT] lat=-35.3631519°, lon=149.1657143°, alt=597.60m, relative_alt=13.54m
+[ATTITUDE]            roll=  10.77°, pitch=  -1.31°, yaw= 171.36°
+[GLOBAL_POSITION_INT] lat=-35.3631525°, lon=149.1657118°, alt=598.00m, relative_alt=13.94m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  12.92°, pitch=  -1.54°, yaw= 171.30°
+[GLOBAL_POSITION_INT] lat=-35.3631533°, lon=149.1657083°, alt=598.34m, relative_alt=14.28m
+[ATTITUDE]            roll=  15.20°, pitch=  -1.81°, yaw= 171.22°
+[GLOBAL_POSITION_INT] lat=-35.3631544°, lon=149.1657037°, alt=598.61m, relative_alt=14.55m
+[ATTITUDE]            roll=  17.58°, pitch=  -2.05°, yaw= 171.15°
+[GLOBAL_POSITION_INT] lat=-35.3631558°, lon=149.1656978°, alt=598.82m, relative_alt=14.76m
+[ATTITUDE]            roll=  19.92°, pitch=  -2.27°, yaw= 171.08°
+[GLOBAL_POSITION_INT] lat=-35.3631575°, lon=149.1656905°, alt=598.97m, relative_alt=14.91m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  21.53°, pitch=  -2.40°, yaw= 171.04°
+[GLOBAL_POSITION_INT] lat=-35.3631596°, lon=149.1656817°, alt=599.06m, relative_alt=15.00m
+[ATTITUDE]            roll=  22.63°, pitch=  -2.44°, yaw= 171.03°
+[GLOBAL_POSITION_INT] lat=-35.3631620°, lon=149.1656713°, alt=599.10m, relative_alt=15.04m
+[ATTITUDE]            roll=  23.23°, pitch=  -2.42°, yaw= 171.04°
+[GLOBAL_POSITION_INT] lat=-35.3631648°, lon=149.1656594°, alt=599.10m, relative_alt=15.05m
+[ATTITUDE]            roll=  22.99°, pitch=  -2.29°, yaw= 171.09°
+[GLOBAL_POSITION_INT] lat=-35.3631680°, lon=149.1656461°, alt=599.09m, relative_alt=15.03m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  22.68°, pitch=  -2.16°, yaw= 171.14°
+[GLOBAL_POSITION_INT] lat=-35.3631714°, lon=149.1656314°, alt=599.07m, relative_alt=15.01m
+[ATTITUDE]            roll=  22.55°, pitch=  -2.04°, yaw= 171.19°
+[GLOBAL_POSITION_INT] lat=-35.3631751°, lon=149.1656156°, alt=599.05m, relative_alt=14.99m
+[ATTITUDE]            roll=  22.52°, pitch=  -1.96°, yaw= 171.24°
+[GLOBAL_POSITION_INT] lat=-35.3631791°, lon=149.1655989°, alt=599.04m, relative_alt=14.99m
+[ATTITUDE]            roll=  22.36°, pitch=  -1.85°, yaw= 171.29°
+[GLOBAL_POSITION_INT] lat=-35.3631832°, lon=149.1655812°, alt=599.04m, relative_alt=14.98m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  22.17°, pitch=  -1.78°, yaw= 171.33°
+[GLOBAL_POSITION_INT] lat=-35.3631874°, lon=149.1655630°, alt=599.04m, relative_alt=14.98m
+[ATTITUDE]            roll=  21.90°, pitch=  -1.69°, yaw= 171.36°
+[GLOBAL_POSITION_INT] lat=-35.3631918°, lon=149.1655441°, alt=599.03m, relative_alt=14.98m
+[ATTITUDE]            roll=  21.42°, pitch=  -1.60°, yaw= 171.39°
+[GLOBAL_POSITION_INT] lat=-35.3631962°, lon=149.1655249°, alt=599.04m, relative_alt=14.98m
+[ATTITUDE]            roll=  20.81°, pitch=  -1.50°, yaw= 171.42°
+[GLOBAL_POSITION_INT] lat=-35.3632007°, lon=149.1655054°, alt=599.04m, relative_alt=14.98m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  20.10°, pitch=  -1.37°, yaw= 171.46°
+[GLOBAL_POSITION_INT] lat=-35.3632053°, lon=149.1654856°, alt=599.04m, relative_alt=14.98m
+[ATTITUDE]            roll=  20.28°, pitch=  -1.41°, yaw= 171.44°
+[GLOBAL_POSITION_INT] lat=-35.3632098°, lon=149.1654659°, alt=599.03m, relative_alt=14.98m
+[ATTITUDE]            roll=  19.67°, pitch=  -1.36°, yaw= 171.45°
+[GLOBAL_POSITION_INT] lat=-35.3632143°, lon=149.1654462°, alt=599.03m, relative_alt=14.98m
+[ATTITUDE]            roll=  18.25°, pitch=  -1.19°, yaw= 171.52°
+[GLOBAL_POSITION_INT] lat=-35.3632188°, lon=149.1654265°, alt=599.03m, relative_alt=14.98m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  16.61°, pitch=  -0.98°, yaw= 171.59°
+[GLOBAL_POSITION_INT] lat=-35.3632233°, lon=149.1654068°, alt=599.03m, relative_alt=14.98m
+[ATTITUDE]            roll=  14.82°, pitch=  -0.78°, yaw= 171.65°
+[GLOBAL_POSITION_INT] lat=-35.3632277°, lon=149.1653876°, alt=599.03m, relative_alt=14.97m
+[ATTITUDE]            roll=  12.72°, pitch=  -0.56°, yaw= 171.70°
+[GLOBAL_POSITION_INT] lat=-35.3632320°, lon=149.1653689°, alt=599.03m, relative_alt=14.97m
+[ATTITUDE]            roll=  10.38°, pitch=  -0.35°, yaw= 171.73°
+[GLOBAL_POSITION_INT] lat=-35.3632361°, lon=149.1653508°, alt=599.03m, relative_alt=14.97m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   7.66°, pitch=  -0.07°, yaw= 171.77°
+[GLOBAL_POSITION_INT] lat=-35.3632400°, lon=149.1653334°, alt=599.03m, relative_alt=14.97m
+[ATTITUDE]            roll=   4.70°, pitch=   0.21°, yaw= 171.80°
+[GLOBAL_POSITION_INT] lat=-35.3632437°, lon=149.1653171°, alt=599.02m, relative_alt=14.97m
+[ATTITUDE]            roll=   1.51°, pitch=   0.51°, yaw= 171.83°
+[GLOBAL_POSITION_INT] lat=-35.3632471°, lon=149.1653020°, alt=599.02m, relative_alt=14.97m
+[ATTITUDE]            roll=  -1.90°, pitch=   0.81°, yaw= 171.84°
+[GLOBAL_POSITION_INT] lat=-35.3632502°, lon=149.1652881°, alt=599.02m, relative_alt=14.96m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -4.72°, pitch=   1.02°, yaw= 171.82°
+[GLOBAL_POSITION_INT] lat=-35.3632530°, lon=149.1652757°, alt=599.02m, relative_alt=14.96m
+[ATTITUDE]            roll=  -6.65°, pitch=   1.12°, yaw= 171.81°
+[GLOBAL_POSITION_INT] lat=-35.3632554°, lon=149.1652650°, alt=599.02m, relative_alt=14.96m
+[ATTITUDE]            roll=  -8.21°, pitch=   1.18°, yaw= 171.80°
+[GLOBAL_POSITION_INT] lat=-35.3632574°, lon=149.1652559°, alt=599.02m, relative_alt=14.96m
+[ATTITUDE]            roll=  -8.54°, pitch=   1.11°, yaw= 171.80°
+[GLOBAL_POSITION_INT] lat=-35.3632591°, lon=149.1652484°, alt=599.02m, relative_alt=14.97m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -8.49°, pitch=   1.00°, yaw= 171.81°
+[GLOBAL_POSITION_INT] lat=-35.3632604°, lon=149.1652424°, alt=599.02m, relative_alt=14.97m
+[ATTITUDE]            roll=  -8.21°, pitch=   0.93°, yaw= 171.82°
+[GLOBAL_POSITION_INT] lat=-35.3632614°, lon=149.1652378°, alt=599.03m, relative_alt=14.97m
+[ATTITUDE]            roll=  -7.70°, pitch=   0.82°, yaw= 171.84°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652344°, alt=599.03m, relative_alt=14.97m
+[ATTITUDE]            roll=  -6.93°, pitch=   0.68°, yaw= 171.87°
+[GLOBAL_POSITION_INT] lat=-35.3632627°, lon=149.1652321°, alt=599.03m, relative_alt=14.98m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -5.90°, pitch=   0.59°, yaw= 171.89°
+[GLOBAL_POSITION_INT] lat=-35.3632630°, lon=149.1652308°, alt=599.03m, relative_alt=14.98m
+[ATTITUDE]            roll=  -4.71°, pitch=   0.46°, yaw= 171.90°
+[GLOBAL_POSITION_INT] lat=-35.3632632°, lon=149.1652301°, alt=599.03m, relative_alt=14.98m
+[ATTITUDE]            roll=  -3.29°, pitch=   0.31°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632632°, lon=149.1652301°, alt=599.03m, relative_alt=14.98m
+[ATTITUDE]            roll=  -1.77°, pitch=   0.15°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632632°, lon=149.1652303°, alt=599.03m, relative_alt=14.98m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.42°, pitch=   0.00°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632632°, lon=149.1652308°, alt=599.04m, relative_alt=14.98m
+[ATTITUDE]            roll=  -0.17°, pitch=   0.01°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632632°, lon=149.1652314°, alt=599.04m, relative_alt=14.98m
+[ATTITUDE]            roll=  -0.17°, pitch=   0.05°, yaw= 171.96°
+[GLOBAL_POSITION_INT] lat=-35.3632631°, lon=149.1652319°, alt=599.04m, relative_alt=14.98m
+[ATTITUDE]            roll=  -0.16°, pitch=   0.06°, yaw= 171.98°
+[GLOBAL_POSITION_INT] lat=-35.3632631°, lon=149.1652325°, alt=599.04m, relative_alt=14.98m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.04°, pitch=   0.01°, yaw= 171.99°
+[GLOBAL_POSITION_INT] lat=-35.3632630°, lon=149.1652330°, alt=599.04m, relative_alt=14.98m
+[ATTITUDE]            roll=   0.07°, pitch=  -0.01°, yaw= 172.00°
+[GLOBAL_POSITION_INT] lat=-35.3632629°, lon=149.1652335°, alt=599.04m, relative_alt=14.98m
+[ATTITUDE]            roll=   0.14°, pitch=   0.03°, yaw= 171.99°
+[GLOBAL_POSITION_INT] lat=-35.3632628°, lon=149.1652340°, alt=599.04m, relative_alt=14.98m
+[ATTITUDE]            roll=   0.19°, pitch=   0.02°, yaw= 171.97°
+[GLOBAL_POSITION_INT] lat=-35.3632627°, lon=149.1652345°, alt=599.04m, relative_alt=14.99m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.21°, pitch=  -0.05°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632626°, lon=149.1652349°, alt=599.04m, relative_alt=14.99m
+[ATTITUDE]            roll=   0.24°, pitch=  -0.07°, yaw= 171.90°
+[GLOBAL_POSITION_INT] lat=-35.3632626°, lon=149.1652352°, alt=599.04m, relative_alt=14.99m
+[ATTITUDE]            roll=   0.27°, pitch=  -0.07°, yaw= 171.89°
+[GLOBAL_POSITION_INT] lat=-35.3632625°, lon=149.1652355°, alt=599.05m, relative_alt=14.99m
+[ATTITUDE]            roll=   0.22°, pitch=  -0.07°, yaw= 171.90°
+[GLOBAL_POSITION_INT] lat=-35.3632624°, lon=149.1652358°, alt=599.05m, relative_alt=14.99m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.20°, pitch=  -0.06°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632624°, lon=149.1652360°, alt=599.05m, relative_alt=14.99m
+[ATTITUDE]            roll=   0.17°, pitch=  -0.08°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632623°, lon=149.1652362°, alt=599.05m, relative_alt=14.99m
+[ATTITUDE]            roll=   0.13°, pitch=  -0.06°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632623°, lon=149.1652363°, alt=599.05m, relative_alt=14.99m
+[ATTITUDE]            roll=   0.09°, pitch=  -0.05°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632623°, lon=149.1652364°, alt=599.05m, relative_alt=14.99m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.08°, pitch=  -0.04°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632623°, lon=149.1652365°, alt=599.05m, relative_alt=14.99m
+[ATTITUDE]            roll=   0.04°, pitch=  -0.03°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632623°, lon=149.1652366°, alt=599.05m, relative_alt=14.99m
+[ATTITUDE]            roll=  -0.00°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632623°, lon=149.1652367°, alt=599.05m, relative_alt=15.00m
+[ATTITUDE]            roll=  -0.02°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652367°, alt=599.05m, relative_alt=15.00m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.05°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652367°, alt=599.05m, relative_alt=15.00m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652368°, alt=599.04m, relative_alt=14.99m
+[ATTITUDE]            roll=  -0.07°, pitch=  -0.03°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652368°, alt=598.98m, relative_alt=14.93m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.02°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652369°, alt=598.86m, relative_alt=14.80m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.02°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652369°, alt=598.66m, relative_alt=14.61m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652369°, alt=598.40m, relative_alt=14.34m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.02°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652370°, alt=598.06m, relative_alt=14.01m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.01°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652370°, alt=597.68m, relative_alt=13.63m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.01°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652370°, alt=597.29m, relative_alt=13.23m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.01°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652370°, alt=596.89m, relative_alt=12.84m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.02°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652371°, alt=596.50m, relative_alt=12.45m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.05°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652371°, alt=596.12m, relative_alt=12.07m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.05°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652371°, alt=595.75m, relative_alt=11.69m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.06°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652371°, alt=595.37m, relative_alt=11.32m
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.05°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652371°, alt=595.04m, relative_alt=10.98m
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.05°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652371°, alt=594.76m, relative_alt=10.70m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.05°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652371°, alt=594.55m, relative_alt=10.49m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.05°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652371°, alt=594.41m, relative_alt=10.35m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652371°, alt=594.30m, relative_alt=10.24m
+[ATTITUDE]            roll=  -0.07°, pitch=  -0.05°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652371°, alt=594.19m, relative_alt=10.14m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652371°, alt=594.09m, relative_alt=10.03m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652371°, alt=593.98m, relative_alt=9.92m
+[ATTITUDE]            roll=  -0.07°, pitch=  -0.03°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=593.86m, relative_alt=9.80m
+[ATTITUDE]            roll=  -0.08°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=593.73m, relative_alt=9.68m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=593.61m, relative_alt=9.55m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.05°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=593.48m, relative_alt=9.43m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.06°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=593.35m, relative_alt=9.30m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=593.23m, relative_alt=9.17m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.03°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=593.10m, relative_alt=9.04m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=592.97m, relative_alt=8.92m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=592.85m, relative_alt=8.79m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=592.72m, relative_alt=8.66m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=592.60m, relative_alt=8.54m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=592.47m, relative_alt=8.41m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.04°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=592.34m, relative_alt=8.29m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=592.22m, relative_alt=8.16m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.02°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=592.09m, relative_alt=8.04m
+[ATTITUDE]            roll=  -0.01°, pitch=  -0.02°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=591.97m, relative_alt=7.91m
+[ATTITUDE]            roll=  -0.00°, pitch=  -0.02°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=591.84m, relative_alt=7.79m
+[ATTITUDE]            roll=  -0.00°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=591.72m, relative_alt=7.66m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=591.59m, relative_alt=7.54m
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=591.47m, relative_alt=7.41m
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=591.34m, relative_alt=7.29m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.03°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=591.22m, relative_alt=7.16m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.02°, pitch=  -0.04°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=591.09m, relative_alt=7.04m
+[ATTITUDE]            roll=  -0.01°, pitch=  -0.05°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=590.97m, relative_alt=6.91m
+[ATTITUDE]            roll=  -0.02°, pitch=  -0.06°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=590.84m, relative_alt=6.79m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.08°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=590.72m, relative_alt=6.66m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.00°, pitch=  -0.07°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=590.59m, relative_alt=6.54m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=590.47m, relative_alt=6.41m
+[ATTITUDE]            roll=  -0.08°, pitch=  -0.05°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=590.34m, relative_alt=6.29m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.09°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=590.22m, relative_alt=6.16m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.06°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=590.09m, relative_alt=6.04m
+[ATTITUDE]            roll=  -0.01°, pitch=  -0.05°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=589.97m, relative_alt=5.91m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.05°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=589.84m, relative_alt=5.79m
+[ATTITUDE]            roll=  -0.09°, pitch=  -0.05°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=589.72m, relative_alt=5.66m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.09°, pitch=  -0.05°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=589.59m, relative_alt=5.54m
+[ATTITUDE]            roll=  -0.09°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=589.47m, relative_alt=5.41m
+[ATTITUDE]            roll=  -0.08°, pitch=  -0.05°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=589.34m, relative_alt=5.29m
+[ATTITUDE]            roll=  -0.07°, pitch=  -0.06°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=589.22m, relative_alt=5.16m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=589.09m, relative_alt=5.03m
+[ATTITUDE]            roll=  -0.07°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=588.96m, relative_alt=4.91m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.05°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=588.84m, relative_alt=4.78m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.05°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=588.71m, relative_alt=4.66m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=588.59m, relative_alt=4.53m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.01°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=588.46m, relative_alt=4.41m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.02°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=588.34m, relative_alt=4.29m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.02°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=588.22m, relative_alt=4.16m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=588.09m, relative_alt=4.04m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=587.97m, relative_alt=3.91m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.03°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=587.84m, relative_alt=3.79m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.03°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=587.72m, relative_alt=3.66m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=587.59m, relative_alt=3.54m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.04°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=587.47m, relative_alt=3.41m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.05°, yaw= 171.95°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=587.34m, relative_alt=3.29m
+[ATTITUDE]            roll=  -0.01°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=587.22m, relative_alt=3.16m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=   0.00°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=587.09m, relative_alt=3.04m
+[ATTITUDE]            roll=  -0.00°, pitch=  -0.02°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.97m, relative_alt=2.91m
+[ATTITUDE]            roll=  -0.01°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.84m, relative_alt=2.79m
+[ATTITUDE]            roll=  -0.02°, pitch=  -0.02°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.71m, relative_alt=2.66m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.03°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.59m, relative_alt=2.54m
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.03°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.46m, relative_alt=2.41m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.03°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.34m, relative_alt=2.28m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.21m, relative_alt=2.16m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.05°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=586.09m, relative_alt=2.03m
+[ATTITUDE]            roll=  -0.03°, pitch=  -0.05°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=585.96m, relative_alt=1.91m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=585.84m, relative_alt=1.78m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.03°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=585.71m, relative_alt=1.66m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.03°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=585.59m, relative_alt=1.53m
+[ATTITUDE]            roll=  -0.07°, pitch=  -0.05°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=585.46m, relative_alt=1.41m
+[ATTITUDE]            roll=  -0.09°, pitch=  -0.05°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=585.34m, relative_alt=1.28m
+[ATTITUDE]            roll=  -0.09°, pitch=  -0.05°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=585.21m, relative_alt=1.16m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.09°, pitch=  -0.04°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=585.09m, relative_alt=1.03m
+[ATTITUDE]            roll=  -0.07°, pitch=  -0.04°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=584.96m, relative_alt=0.91m
+[ATTITUDE]            roll=  -0.07°, pitch=  -0.04°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652373°, alt=584.84m, relative_alt=0.78m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.06°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.71m, relative_alt=0.66m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.06°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.59m, relative_alt=0.53m
+[ATTITUDE]            roll=  -0.06°, pitch=  -0.07°, yaw= 171.94°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.46m, relative_alt=0.41m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.06°, yaw= 171.93°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.34m, relative_alt=0.28m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.06°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.21m, relative_alt=0.16m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.05°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.13m, relative_alt=0.07m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.15m, relative_alt=0.10m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.15m, relative_alt=0.09m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.14m, relative_alt=0.09m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.14m, relative_alt=0.08m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.13m, relative_alt=0.08m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.13m, relative_alt=0.07m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.13m, relative_alt=0.07m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=3
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.92°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.12m, relative_alt=0.07m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.12m, relative_alt=0.06m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632621°, lon=149.1652372°, alt=584.11m, relative_alt=0.05m
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.91°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.10m, relative_alt=0.05m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=89, custom_mode=3, system_status=3
+[ATTITUDE]            roll=  -0.05°, pitch=  -0.04°, yaw= 171.90°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.10m, relative_alt=0.04m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.90°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.09m, relative_alt=0.04m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.89°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.09m, relative_alt=0.03m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.89°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.08m, relative_alt=0.03m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=89, custom_mode=3, system_status=3
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.89°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.08m, relative_alt=0.03m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.88°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.08m, relative_alt=0.02m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.88°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.08m, relative_alt=0.02m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.87°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.07m, relative_alt=0.02m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=89, custom_mode=3, system_status=3
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.03°, yaw= 171.87°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.07m, relative_alt=0.02m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.03°, yaw= 171.86°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.07m, relative_alt=0.02m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.03°, yaw= 171.85°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.07m, relative_alt=0.01m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.85°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.07m, relative_alt=0.01m
+[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=89, custom_mode=3, system_status=3
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.84°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.07m, relative_alt=0.01m
+[ATTITUDE]            roll=  -0.04°, pitch=  -0.04°, yaw= 171.84°
+[GLOBAL_POSITION_INT] lat=-35.3632620°, lon=149.1652372°, alt=584.07m, relative_alt=0.01m
+[结束] 用户中断（Ctrl+C）
+[输出] 记录已保存至: E:\实习\workspace\无人机通信\20260703Python与MAVLink 2基础交互\mavlink_output_20260703_164931.txt
+========================================================================
+结束时间: 2026-07-03 16:51:16
