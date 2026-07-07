@@ -1,0 +1,62 @@
+MAVLink 2 命令协议控制记录
+开始时间: 2026-07-07 16:51:00
+监听端口: UDP 14551
+========================================================================
+[输出] 日志文件: E:\实习\workspace\无人机通信\20260707深入MAVLink 2核心协议\command_output_20260707_165100.txt
+[连接] 正在监听: udpin:0.0.0.0:14551
+[连接] 等待 HEARTBEAT（请确认 SITL 已启动且 --out 包含 14551）...
+[连接] 已收到心跳 | target_system=1, target_component=0
+[流程] 开始命令控制序列：解锁 -> GUIDED -> 起飞 -> RTL
+------------------------------------------------------------------------
+[准备] 当前 AUTO 不可解锁，先切换 STABILIZE
+[状态] 切换飞行模式 -> STABILIZE（mode=0）
+[状态] 当前模式: STABILIZE
+[步骤 1] 解锁（Arm）
+[步骤 1] 解锁尝试 1/5
+[命令] command_long_send -> MAV_CMD_COMPONENT_ARM_DISARM (arm=1)
+[命令] MAV_CMD_COMPONENT_ARM_DISARM (arm=1) COMMAND_ACK | result=ACCEPTED
+[状态] 解锁成功
+[步骤 2] 切换 GUIDED 模式
+[状态] 切换飞行模式 -> GUIDED（mode=4）
+[状态] 当前模式: GUIDED
+[步骤 3] 起飞至 10.0 米
+[命令] command_long_send -> MAV_CMD_NAV_TAKEOFF (alt=10.0m)
+[命令] MAV_CMD_NAV_TAKEOFF (alt=10.0m) COMMAND_ACK | result=ACCEPTED
+[状态] 等待到达高度 10.0m ...
+[位置] relative_alt=0.01m
+[位置] relative_alt=0.01m
+[位置] relative_alt=2.44m
+[位置] relative_alt=7.50m
+[状态] 已到达目标高度 | relative_alt=9.40m
+[状态] 悬停 5s ...
+[飞行参数] 调整返航高度：
+  RTL_ALT=1000 cm (10.0 m) 返航高度（与 --alt 一致）
+[参数] param_request_read -> RTL_ALT
+[参数] RTL_ALT = 1500 (type=6)
+[参数] param_set -> RTL_ALT = 1000
+[参数] 确认 RTL_ALT = 1000
+[步骤 4] 返航（RTL）
+[命令] command_long_send -> MAV_CMD_NAV_RETURN_TO_LAUNCH
+[命令] MAV_CMD_NAV_RETURN_TO_LAUNCH COMMAND_ACK | result=ACCEPTED
+[状态] 已进入 RTL 模式 | mode=RTL
+[监控] 等待返航完成（超时 300s）
+------------------------------------------------------------------------
+[位置] relative_alt=9.98m
+[位置] relative_alt=9.99m
+[位置] relative_alt=9.99m
+[位置] relative_alt=8.74m
+[位置] relative_alt=7.24m
+[位置] relative_alt=5.61m
+[位置] relative_alt=4.11m
+[位置] relative_alt=2.62m
+[位置] relative_alt=0.99m
+[位置] relative_alt=0.10m
+[进度] 返航完成，已上锁 | mode=RTL
+[流程] 命令控制序列结束
+[飞行参数] 恢复 RTL_ALT 原值 1500 cm ...
+[参数] param_set -> RTL_ALT = 1500
+[参数] 确认 RTL_ALT = 1500
+[飞行参数] RTL_ALT 已恢复
+[输出] 记录已保存至: E:\实习\workspace\无人机通信\20260707深入MAVLink 2核心协议\command_output_20260707_165100.txt
+========================================================================
+结束时间: 2026-07-07 16:51:46

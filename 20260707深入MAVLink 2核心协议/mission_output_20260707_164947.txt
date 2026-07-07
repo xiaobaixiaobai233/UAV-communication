@@ -1,0 +1,107 @@
+MAVLink 2 任务协议上传与执行记录
+开始时间: 2026-07-07 16:49:47
+监听端口: UDP 14551
+========================================================================
+[输出] 日志文件: E:\实习\workspace\无人机通信\20260707深入MAVLink 2核心协议\mission_output_20260707_164947.txt
+[连接] 正在监听: udpin:0.0.0.0:14551
+[连接] 等待 HEARTBEAT（请确认 SITL 已启动且 --out 包含 14551）...
+[连接] 已收到心跳 | target_system=1, target_component=0
+[位置] 等待 GLOBAL_POSITION_INT / HOME_POSITION...
+[位置] GLOBAL_POSITION_INT | lat=-35.3632627°, lon=149.1652371°
+[航线] 任务航点规划：
+------------------------------------------------------------------------
+  seq=0  Home      MAV_CMD_NAV_WAYPOINT      lat=-35.3632627°, lon=149.1652371°（Home 参考点）
+  seq=1  起飞        MAV_CMD_NAV_TAKEOFF       alt=10.0m
+  seq=2  航点 A      MAV_CMD_NAV_WAYPOINT      lat=-35.3629932°, lon=149.1652371°, alt=10.0m
+  seq=3  航点 B      MAV_CMD_NAV_WAYPOINT      lat=-35.3629932°, lon=149.1655676°, alt=10.0m
+  seq=4  返航 RTL    MAV_CMD_NAV_RETURN_TO_LAUNCH  （飞控自动返航）
+------------------------------------------------------------------------
+[任务] mission_clear_all_send() 清空现有航线...
+[任务] 清空航线确认 | MISSION_ACK type=0
+[任务] mission_count_send() 航点数量 = 5
+[上传] mission_item_send seq=0 (Home, MAV_CMD_NAV_WAYPOINT)
+[上传] mission_item_send seq=1 (起飞, MAV_CMD_NAV_TAKEOFF)
+[上传] mission_item_send seq=2 (航点 A, MAV_CMD_NAV_WAYPOINT)
+[上传] mission_item_send seq=3 (航点 B, MAV_CMD_NAV_WAYPOINT)
+[上传] mission_item_send seq=4 (返航 RTL, MAV_CMD_NAV_RETURN_TO_LAUNCH)
+[任务] 上传完成确认 | MISSION_ACK type=0
+[任务] 航线上传成功，共 5 个航点
+[飞行参数] 调整速度与返航高度：
+  WPNAV_SPEED=500 cm/s (5.0 m/s) 水平飞行
+  WPNAV_SPEED_DN=220 cm/s (2.2 m/s) 下降/返航
+  LAND_SPEED=75 cm/s (0.8 m/s) 最终降落
+  RTL_ALT=1000 cm (10.0 m) 返航高度（与任务高度一致）
+[参数] param_request_read -> WPNAV_SPEED
+[参数] WPNAV_SPEED = 1000 (type=9)
+[参数] param_set -> WPNAV_SPEED = 500
+[参数] 确认 WPNAV_SPEED = 500
+[参数] param_request_read -> WPNAV_SPEED_DN
+[参数] WPNAV_SPEED_DN = 150 (type=9)
+[参数] param_set -> WPNAV_SPEED_DN = 220
+[参数] 确认 WPNAV_SPEED_DN = 220
+[参数] param_request_read -> LAND_SPEED
+[参数] LAND_SPEED = 50 (type=4)
+[参数] param_set -> LAND_SPEED = 75
+[参数] 确认 LAND_SPEED = 75
+[参数] param_request_read -> RTL_ALT
+[参数] RTL_ALT = 1500 (type=6)
+[参数] param_set -> RTL_ALT = 1000
+[参数] 确认 RTL_ALT = 1000
+[执行] 切换飞行模式 -> STABILIZE（mode=0）
+[执行] set_mode_apm('STABILIZE')...
+[执行] 当前模式: STABILIZE
+[执行] command_long_send -> MAV_CMD_COMPONENT_ARM_DISARM (解锁)
+[执行] ARM COMMAND_ACK | result=ACCEPTED
+[执行] 解锁成功
+[执行] 切换飞行模式 -> AUTO（mode=3）
+[执行] set_mode_apm('AUTO')...
+[执行] 当前模式: AUTO
+[执行] command_long_send -> MAV_CMD_MISSION_START
+[执行] MISSION_START COMMAND_ACK | result=ACCEPTED
+[执行] 任务已开始，飞控将按航线：起飞 -> A -> B -> RTL
+[监控] 开始监控任务执行（超时 300s）
+------------------------------------------------------------------------
+[位置] lat=-35.3632627°, lon=149.1652371°, relative_alt=0.00m
+[进度] 当前航点 seq=1/4
+[位置] lat=-35.3632627°, lon=149.1652371°, relative_alt=0.05m
+[位置] lat=-35.3632628°, lon=149.1652371°, relative_alt=5.25m
+[位置] lat=-35.3632628°, lon=149.1652370°, relative_alt=9.71m
+[进度] 已到达航点 seq=1
+[进度] 当前航点 seq=2/4
+[位置] lat=-35.3632476°, lon=149.1652370°, relative_alt=9.98m
+[位置] lat=-35.3631405°, lon=149.1652361°, relative_alt=9.99m
+[位置] lat=-35.3630173°, lon=149.1652364°, relative_alt=9.98m
+[进度] 已到达航点 seq=2
+[进度] 当前航点 seq=3/4
+[位置] lat=-35.3629890°, lon=149.1653365°, relative_alt=9.99m
+[位置] lat=-35.3629914°, lon=149.1655108°, relative_alt=10.00m
+[位置] lat=-35.3629917°, lon=149.1655722°, relative_alt=10.00m
+[进度] 已到达航点 seq=3
+[进度] 当前航点 seq=4/4
+[位置] lat=-35.3630028°, lon=149.1655580°, relative_alt=10.00m
+[位置] lat=-35.3630816°, lon=149.1654608°, relative_alt=10.00m
+[位置] lat=-35.3631838°, lon=149.1653348°, relative_alt=10.00m
+[位置] lat=-35.3632610°, lon=149.1652393°, relative_alt=10.00m
+[位置] lat=-35.3632641°, lon=149.1652354°, relative_alt=10.00m
+[位置] lat=-35.3632628°, lon=149.1652368°, relative_alt=10.00m
+[位置] lat=-35.3632627°, lon=149.1652370°, relative_alt=8.32m
+[位置] lat=-35.3632626°, lon=149.1652372°, relative_alt=5.88m
+[位置] lat=-35.3632626°, lon=149.1652372°, relative_alt=3.63m
+[位置] lat=-35.3632626°, lon=149.1652372°, relative_alt=1.38m
+[位置] lat=-35.3632626°, lon=149.1652372°, relative_alt=0.12m
+[进度] 已到达航点 seq=4
+[进度] 当前航点 seq=0/4
+[进度] 返航完成，已上锁 | mode=AUTO
+[飞行参数] 恢复速度与返航高度原值...
+[参数] param_set -> WPNAV_SPEED = 1000
+[参数] 确认 WPNAV_SPEED = 1000
+[参数] param_set -> WPNAV_SPEED_DN = 150
+[参数] 确认 WPNAV_SPEED_DN = 150
+[参数] param_set -> LAND_SPEED = 50
+[参数] 确认 LAND_SPEED = 50
+[参数] param_set -> RTL_ALT = 1500
+[参数] 确认 RTL_ALT = 1500
+[飞行参数] 参数已恢复
+[输出] 记录已保存至: E:\实习\workspace\无人机通信\20260707深入MAVLink 2核心协议\mission_output_20260707_164947.txt
+========================================================================
+结束时间: 2026-07-07 16:50:51

@@ -1,0 +1,24 @@
+任务 1：参数协议 → param_ops.py
+ 用 param_request_list() 获取飞控全部参数
+ 打印/记录参数列表
+ 读取并尝试修改 1–2 个参数（如 SR1_EXTSTAT 扩展状态流频率）
+ 验证修改是否生效（读回确认）
+ 脚本可独立运行，附简单使用说明
+
+任务 2：任务协议 → mission_upload.py
+ 构造至少 4 个航点的简单航线：起飞 → 航点 A → 航点 B → 返航（RTL）
+ 用 mission_count_send() 告知航点数量
+ 用 mission_item_send() 逐条上传航点
+ 上传成功后命令飞控执行航线
+ 在 SITL 中验证飞机按航线飞行
+ 脚本可独立运行，附简单使用说明
+
+任务 3：命令协议 → command_control.py
+ 用 command_long_send() 实现完整控制流程：
+解锁（Arm）
+切换 GUIDED 模式
+起飞至 10 米
+返航（RTL）
+ 各步骤等待 ACK / 状态确认（如 COMMAND_ACK、模式变化）
+ 在 SITL 中完整跑通
+ 脚本可独立运行，附简单使用说明
