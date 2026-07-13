@@ -1,0 +1,156 @@
+% !TEX program = xelatex
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[UTF8,scheme=chinese]{ctex}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+\geometry{left=2.5cm,right=2.5cm,top=2.8cm,bottom=2.8cm}
+
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+
+\lstset{
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    frame=single,
+    backgroundcolor=\color{gray!8},
+    numbers=none,
+    tabsize=4,
+    language=Python
+}
+
+\title{\textbf{MAVLink 2 安全签名报告} \\ \large 第 4--5 周实习成果}
+\author{实习成果 · UAV Communication}
+\date{2026年7月13日}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+
+\section{任务概述}
+
+\subsection{阶段目标}
+
+本阶段（第 4--5 周）的核心目标是探索 MAVLink 2 \textbf{消息签名}机制，在 ArduPilot SITL 中启用签名，并通过 Python 脚本验证飞控对未授权控制命令的拒绝能力。
+
+\subsection{交付物}
+
+\begin{table}[htbp]
+\centering
+\caption{安全签名阶段交付物}
+\begin{tabular}{p{4.5cm}p{8.5cm}}
+\toprule
+\textbf{交付物} & \textbf{说明} \\
+\midrule
+\texttt{secure\_connection.py} & 签名连接与三组对比验证脚本 \\
+\texttt{signing\_output\_20260713\_094620.txt} & SITL 实验日志 \\
+\texttt{README.md} & 使用说明与配置步骤 \\
+本报告 & \texttt{MAVLink2安全签名报告.pdf} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{实现原理}
+
+MAVLink 2 消息签名是一种\textbf{认证机制}，而非加密：
+
+\begin{itemize}[leftmargin=2em]
+    \item 通信双方共享 32 字节 \texttt{secret\_key}；
+    \item 发送方为出站控制消息附加签名（基于 SHA-256 的前 48 位）；
+    \item 飞控验证签名通过后才会执行参数读写、解锁、模式切换等命令；
+    \item \textbf{下行遥测}通常仍为未签名，未配钥地面站仍可被动接收 HEARTBEAT 等消息。
+\end{itemize}
+
+\section{配置与实现}
+
+\subsection{飞控侧配置}
+
+在 SITL 的 MAVProxy 控制台（\texttt{STABILIZE>} 提示符）执行：
+
+\begin{lstlisting}
+module load signing
+signing setup my_sitl_mavlink2_signing_key!!!!
+\end{lstlisting}
+
+\subsection{Python 侧实现}
+
+\texttt{secure\_connection.py} 关键逻辑：
+
+\begin{lstlisting}
+os.environ.setdefault("MAVLINK20", "1")
+master = mavutil.mavlink_connection("udpin:0.0.0.0:14551")
+master.wait_heartbeat(timeout=10)
+master.setup_signing(
+    secret_key,
+    sign_outgoing=True,
+    allow_unsigned_callback=allow_unsigned_telemetry,
+)
+\end{lstlisting}
+
+\texttt{allow\_unsigned\_callback} 的函数签名为 \texttt{(mav, msgId) -> bool}，用于接受飞控下发的未签名遥测（HEARTBEAT、PARAM\_VALUE 等）。必须先收到 HEARTBEAT 再调用 \texttt{setup\_signing}，否则可能丢弃未签名心跳包。
+
+\section{三组对比实验}
+
+\begin{table}[htbp]
+\centering
+\caption{实验设计}
+\begin{tabular}{p{2.5cm}p{3.5cm}p{3.5cm}p{3.5cm}}
+\toprule
+\textbf{实验} & \textbf{Python 签名} & \textbf{验证手段} & \textbf{预期结果} \\
+\midrule
+A 正确密钥 & \texttt{setup\_signing(正确KEY)} & PARAM\_REQUEST\_LIST + COMMAND\_ACK & 成功 \\
+B 未配钥 & 不调用 \texttt{setup\_signing} & 同上 & 被拒绝 \\
+C 错误密钥 & \texttt{setup\_signing(错误KEY)} & 同上 & 被拒绝 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{验证结果}
+
+日志 \texttt{signing\_output\_20260713\_094620.txt}（2026-07-13）：
+
+\begin{table}[htbp]
+\centering
+\caption{实验结论}
+\begin{tabular}{p{3cm}p{3cm}p{3cm}p{4cm}}
+\toprule
+\textbf{实验} & \textbf{PARAM\_VALUE} & \textbf{COMMAND\_ACK} & \textbf{结论} \\
+\midrule
+A 正确密钥 & 1339 条（完整） & ACCEPTED & 符合预期 \\
+B 未配钥 & 0 条 & 超时无响应 & 符合预期 \\
+C 错误密钥 & 0 条 & 超时无响应 & 符合预期 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+实验 A 成功拉取全部参数并收到控制 ACK；B/C 的控制请求均被拒绝，签名机制验证通过。
+
+\section{问题与解决方案}
+
+\begin{table}[htbp]
+\centering
+\caption{问题排查记录}
+\begin{tabular}{p{3.2cm}p{4.8cm}p{5.5cm}}
+\toprule
+\textbf{现象} & \textbf{原因} & \textbf{处理} \\
+\midrule
+Windows 收不到 HEARTBEAT & SITL \texttt{--out} 使用 \texttt{127.0.0.1} & 改为 Windows 桥接 IP \\
+脚本配置签名后崩溃 & \texttt{allow\_unsigned\_callback} 签名错误 & 改为 \texttt{(mav, msgId) -> bool} \\
+正确密钥只收到部分参数 & \texttt{--fetch-timeout} 过短 & 增大至 60\,s \\
+三组实验均成功 & 飞控未启用签名 & MAVProxy 执行 \texttt{signing setup} \\
+签名命令无效 & 填在 ArduCopter 日志窗 & 在 MAVProxy \texttt{STABILIZE>} 中执行 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{总结}
+
+本阶段完成了 MAVLink 2 安全签名的配置、脚本实现与 SITL 验证。通过 \texttt{secure\_connection.py} 的三组对比实验，证明了：正确密钥下飞控接受控制命令，未配钥或错误密钥下飞控拒绝控制请求，达到了第 4--5 周任务预期目标。
+
+\end{document}
