@@ -1,0 +1,159 @@
+% !TEX program = xelatex
+\documentclass[12pt,a4paper]{article}
+
+\usepackage[UTF8,scheme=chinese]{ctex}
+\usepackage{geometry}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+\geometry{left=2.5cm,right=2.5cm,top=2.8cm,bottom=2.8cm}
+
+\hypersetup{colorlinks=true, linkcolor=blue, urlcolor=blue}
+
+\lstset{
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    frame=single,
+    backgroundcolor=\color{gray!8},
+    numbers=none,
+    tabsize=4,
+    language=Python
+}
+
+\title{\textbf{地理围栏实战项目报告} \\ \large 综合实战 · 简易机载逻辑}
+\author{实习最终阶段成果 · UAV Communication}
+\date{2026年7月13日}
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+\newpage
+
+\section{项目概述}
+
+\subsection{项目目的}
+
+综合实战项目为\textbf{简易机载逻辑}：实时监测无人机位置，当进入指定圆形地理围栏区域时，自动悬停并反向飞出至围栏边界。
+
+本项目整合前序阶段的 MAVLink 连接、位置解析、模式切换（LOITER/GUIDED）与导航命令（\texttt{DO\_REPOSITION}）。
+
+\subsection{交付物}
+
+\begin{table}[htbp]
+\centering
+\caption{项目交付物}
+\begin{tabular}{p{4.5cm}p{8.5cm}}
+\toprule
+\textbf{交付物} & \textbf{说明} \\
+\midrule
+\texttt{geofence\_monitor.py} & 围栏监测与自动响应主脚本 \\
+\texttt{geofence\_output\_20260713\_100424.txt} & SITL 验证日志 \\
+\texttt{README.md} & 项目说明与运行步骤 \\
+本报告 & \texttt{地理围栏实战项目报告.pdf} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{围栏设计}
+
+\begin{table}[htbp]
+\centering
+\caption{围栏参数设定}
+\begin{tabular}{ll}
+\toprule
+\textbf{参数} & \textbf{值} \\
+\midrule
+圆心 & Home 点正北 100\,m \\
+半径 & 30\,m \\
+进入边界 & Home 北 70\,m 处 \\
+退出点 & 圆心正南 30\,m（Home 北 70\,m，南边界） \\
+测试北飞目标 & Home 北 115\,m（围栏内部） \\
+飞行高度 & 10\,m（相对 Home） \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+从 Home 向北飞行，在距圆心 $\le 30$\,m 时触发响应；反向飞出至南边界（距圆心 30\,m 的南侧点）并悬停。
+
+\section{实现原理}
+
+\subsection{核心流程}
+
+\begin{enumerate}[leftmargin=2em]
+    \item 连接 SITL，等待 GPS/EKF 就绪；
+    \item 解锁 $\to$ GUIDED $\to$ \texttt{NAV\_TAKEOFF} 至 10\,m；
+    \item \texttt{DO\_REPOSITION} 向北飞，循环读取 \texttt{GLOBAL\_POSITION\_INT}；
+    \item 进入围栏：LOITER 悬停 3\,s；
+    \item GUIDED 飞向退出点，到达后 LOITER 边界悬停 8\,s。
+\end{enumerate}
+
+\subsection{围栏判定}
+
+采用平面近似水平距离：
+
+\begin{lstlisting}
+def in_geofence(lat, lon, center_lat, center_lon, radius_m):
+    return horizontal_distance_m(lat, lon, center_lat, center_lon) <= radius_m
+\end{lstlisting}
+
+\subsection{关键 API}
+
+\begin{table}[htbp]
+\centering
+\caption{主要 MAVLink 接口}
+\begin{tabular}{p{4.5cm}p{8.0cm}}
+\toprule
+\textbf{功能} & \textbf{接口} \\
+\midrule
+位置监听 & \texttt{recv\_match(type="GLOBAL\_POSITION\_INT")} \\
+模式切换 & \texttt{set\_mode\_apm("LOITER")} / \texttt{"GUIDED"} \\
+起飞 & \texttt{MAV\_CMD\_NAV\_TAKEOFF} \\
+导航 & \texttt{MAV\_CMD\_DO\_REPOSITION}（COMMAND\_INT） \\
+GPS 就绪 & \texttt{GPS\_RAW\_INT.fix\_type >= 3} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{验证结果}
+
+2026-07-13 日志 \texttt{geofence\_output\_20260713\_100424.txt} 摘录：
+
+\begin{lstlisting}
+[准备] GPS/EKF 已就绪，可解锁并切换 GUIDED
+[命令] TAKEOFF 10.0m ACK | result=ACCEPTED
+[监测] 距圆心=39.5m, 围栏内=否
+[触发] 进入围栏！| 距圆心=29.3m <= 半径30m
+[状态] 当前模式: LOITER
+[状态] 到达 围栏南边界 | dist=1.9m
+[完成] 围栏触发响应流程结束，飞机在南边界悬停
+\end{lstlisting}
+
+全流程耗时约 47 秒，在 SITL 中完成：北飞进入围栏 $\to$ 悬停 $\to$ 反向至南边界 $\to$ 边界悬停。
+
+\section{问题与解决方案}
+
+\begin{table}[htbp]
+\centering
+\caption{问题排查记录}
+\begin{tabular}{p{3.2cm}p{4.8cm}p{5.5cm}}
+\toprule
+\textbf{现象} & \textbf{原因} & \textbf{处理} \\
+\midrule
+GUIDED 切换失败 & GPS/EKF 未就绪 & 增加 \texttt{wait\_for\_navigation\_ready()} \\
+\texttt{requires position} & SITL 刚启动 & 预热 8\,s，等待 \texttt{fix\_type >= 3} \\
+PreArm: EKF3 waiting & 同上 & SITL 启动后多等 15--20\,s \\
+未进入围栏 & 北飞目标在围栏外 & 调整 \texttt{--fly-target-north} \\
+与 QGC 冲突 & 双端同时发令 & 运行脚本时断开 QGC \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{总结}
+
+本项目实现了以 Home 北 100\,m 为圆心、半径 30\,m 的圆形围栏监测逻辑。无人机从 Home 向北飞行进入围栏后，自动执行悬停、反向飞出至南边界并悬停，在 ArduPilot SITL 中端到端验证通过，达到了综合实战项目的预期目标。
+
+\end{document}
