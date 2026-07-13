@@ -1,18 +1,39 @@
 # UAV Communication · MAVLink Internship Project
 
-A learning and experimentation repository for **MAVLink 2**–based drone communication. It documents Weeks 1–4 of an internship: environment setup, basic Python interaction with an ArduPilot SITL simulator, and advanced protocol features (parameters, missions, commands). The project uses a **Windows host + Ubuntu VM (SITL) + QGroundControl** architecture, with `pymavlink` for communication and data parsing.
+A systematic internship project for **MAVLink 2** drone communication: from protocol research and environment setup, through Python interaction and advanced protocol control, to MAVLink 2 signing verification and a geofence monitoring demo.
+
+**Stack:** Windows 10 + Ubuntu VM (ArduPilot SITL) + QGroundControl + pymavlink
+
+> 📄 **Full project report:** [`MAVLink实习项目总报告.pdf`](MAVLink实习项目总报告.pdf) (10 pages, all phases)
+
+---
+
+## Table of Contents
+
+- [Progress](#progress)
+- [Repository Structure](#repository-structure)
+- [System Architecture](#system-architecture)
+- [Requirements](#requirements)
+- [Quick Start](#quick-start)
+- [Scripts by Phase](#scripts-by-phase)
+- [Deliverables by Phase](#deliverables-by-phase)
+- [Reports](#reports)
+- [FAQ](#faq)
+- [References](#references)
 
 ---
 
 ## Progress
 
-| Phase      | Task                                                         | Status    |
-| ---------- | ------------------------------------------------------------ | --------- |
-| Week 1     | MAVLink research + dev environment setup + QGC–SITL connection verification | ✅ Done    |
-| Weeks 2–3  | Python & MAVLink 2 basic interaction (`basic_communication.py`) | ✅ Done    |
-| Weeks 3–4  | Parameter read/write, mission upload, command control        | ✅ Done    |
-| Weeks 4–5  | MAVLink 2 signing enablement & verification                  | 🔲 Planned |
-| Final goal | Geofence monitoring + auto hover / return script             | 🔲 Planned |
+| Phase     | Timeline   | Task                                                 | Key Deliverable                    | Status |
+| --------- | ---------- | ---------------------------------------------------- | ---------------------------------- | ------ |
+| Week 1    | 2026-07-01 | MAVLink research + env setup + QGC–SITL verification | Environment setup report           | ✅ Done |
+| Weeks 2–3 | 2026-07-03 | Python & MAVLink 2 basic interaction                 | `basic_communication.py`           | ✅ Done |
+| Weeks 3–4 | 2026-07-07 | Parameter / mission / command protocols              | `param_ops.py` and related scripts | ✅ Done |
+| Weeks 4–5 | 2026-07-13 | MAVLink 2 message signing                            | `secure_connection.py`             | ✅ Done |
+| Final     | 2026-07-13 | Geofence monitoring demo                             | `geofence_monitor.py`              | ✅ Done |
+
+**Capability evolution:** passive listening → active control → security signing → application demo
 
 ---
 
@@ -21,29 +42,42 @@ A learning and experimentation repository for **MAVLink 2**–based drone commun
 ```
 无人机通信/
 ├── README.md
-├── 任务.txt                                     # Internship task schedule
-├── 环境搭建操作步骤.txt                          # Environment setup checklist
+├── 任务.txt                               # Internship task schedule
+├── 环境搭建操作步骤.txt                    # Environment setup checklist
+├── MAVLink实习项目总报告.tex / .pdf        # Full project report
 │
-├── 20260701环境搭建和连接/                       # Week 1 deliverables
-│   ├── MAVLink环境搭建与连接验证报告.tex         # Protocol research + env config + verification report
-│   └── screenshots/                             # Verification screenshots
+├── 20260701环境搭建和连接/                 # Week 1
+│   ├── MAVLink环境搭建与连接验证报告.tex
+│   └── screenshots/
 │
-├── 20260703Python与MAVLink 2基础交互/            # Weeks 2–3 deliverables
-│   ├── basic_communication.py                   # Core script: MAVLink connection & data parsing
-│   ├── requirements.txt                         # Python dependencies
-│   ├── mavlink_output_20260703_164931.txt       # Sample run log
-│   └── Python与MAVLink2基础交互汇报.tex          # Script design & experiment report
+├── 20260703Python与MAVLink 2基础交互/      # Weeks 2–3
+│   ├── basic_communication.py
+│   ├── requirements.txt
+│   ├── mavlink_output_*.txt
+│   └── Python与MAVLink2基础交互汇报.tex
 │
-└── 20260707深入MAVLink 2核心协议/                # Weeks 3–4 deliverables
-    ├── README.md                                # Phase 4 detailed documentation
-    ├── requirements.txt                         # Python dependencies
-    ├── param_ops.py                             # Task 1: parameter read/write
-    ├── mission_upload.py                        # Task 2: mission upload & execution
-    ├── command_control.py                       # Task 3: command control (arm/takeoff/RTL)
-    ├── my_param_log.txt                         # Sample parameter log
-    ├── param_output_*.txt                         # Task 1 run logs (auto-generated)
-    ├── mission_output_*.txt                     # Task 2 run logs (auto-generated)
-    └── command_output_*.txt                     # Task 3 run logs (auto-generated)
+├── 20260707深入MAVLink 2核心协议/          # Weeks 3–4
+│   ├── README.md
+│   ├── param_ops.py
+│   ├── mission_upload.py
+│   ├── command_control.py
+│   ├── requirements.txt
+│   ├── *_output_*.txt
+│   └── 深入MAVLink2核心协议汇报.tex
+│
+├── 20260713安全签名/                       # Weeks 4–5: signing
+│   ├── README.md
+│   ├── secure_connection.py
+│   ├── requirements.txt
+│   ├── signing_output_*.txt
+│   └── MAVLink2安全签名报告.tex / .pdf
+│
+└── 20260713地理围栏实战/                   # Final demo
+    ├── README.md
+    ├── geofence_monitor.py
+    ├── requirements.txt
+    ├── geofence_output_*.txt
+    └── 地理围栏实战项目报告.tex / .pdf
 ```
 
 > External tools (QGroundControl, ArduPilot source, etc.) are not included due to size. Install them locally following the documentation.
@@ -52,9 +86,11 @@ A learning and experimentation repository for **MAVLink 2**–based drone commun
 
 ## System Architecture
 
+### Topology
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  Ubuntu VM (VMware)                                         │
+│  Ubuntu VM (VMware bridged mode)                            │
 │  ┌─────────────────────────────────────────────────────┐    │
 │  │  ArduPilot SITL (ArduCopter)                        │    │
 │  │  sim_vehicle.py --out=udp:<WindowsIP>:14550           │    │
@@ -66,207 +102,304 @@ A learning and experimentation repository for **MAVLink 2**–based drone commun
 ┌─────────────────────────────────────────────────────────────┐
 │  Windows 10 Host                                            │
 │  ┌──────────────────────┐   ┌─────────────────────────────┐ │
-│  │  QGroundControl      │   │  Python scripts             │ │
-│  │  UDP 14550 (control) │   │  UDP 14551                  │ │
-│  │                      │   │  · basic_communication.py   │ │
-│  │                      │   │    (passive listen)         │ │
-│  │                      │   │  · param_ops / mission /    │ │
-│  │                      │   │    command_control          │ │
-│  │                      │   │    (active control)         │ │
+│  │  QGroundControl      │   │  Python scripts (pymavlink) │ │
+│  │  UDP 14550           │   │  UDP 14551                  │ │
 │  └──────────────────────┘   └─────────────────────────────┘ │
 └─────────────────────────────────────────────────────────────┘
 ```
 
-**Design note:** In Weeks 2–3, QGC handles **control** (arm, takeoff, mode changes) while `basic_communication.py` **passively listens** on port 14551. In Weeks 3–4, the phase-4 scripts **actively control** the vehicle on the same port and do not require QGC. Avoid running QGC and phase-4 scripts at the same time to prevent conflicting commands.
+### Ports
+
+| Port      | Client         | Purpose                                                 |
+| --------- | -------------- | ------------------------------------------------------- |
+| **14550** | QGroundControl | Ground-station control and monitoring (Weeks 2–3)       |
+| **14551** | Python scripts | Data logging / active control / signing / geofence demo |
+
+### Design Notes
+
+- **Weeks 2–3:** QGC controls the vehicle on 14550; `basic_communication.py` **passively listens** on 14551
+- **Weeks 3–4 onward:** Python scripts **actively control** the vehicle on 14551; QGC is not required
+- **Important:** Do not run QGC and control scripts at the same time to avoid command conflicts
+- **SITL output address:** Must use the Windows bridged IP (`ipconfig`), **not `127.0.0.1`**
 
 ---
 
 ## Requirements
 
-| Component       | Version / Notes                                    |
-| --------------- | -------------------------------------------------- |
-| OS              | Windows 10 + Ubuntu VM (VMware bridged networking) |
-| Python          | 3.10+                                              |
-| Ground station  | QGroundControl 4.2+ (MAVLink 2 support)            |
-| Flight sim      | ArduPilot SITL (ArduCopter, Copter-4.4 branch)     |
-| Python library  | `pymavlink >= 2.4.41`                              |
-| Version control | Git 2.47+                                          |
+| Component       | Version / Notes                                      |
+| --------------- | ---------------------------------------------------- |
+| Host OS         | Windows 10                                           |
+| VM              | VMware Workstation + Ubuntu (**bridged networking**) |
+| Python          | 3.10+                                                |
+| Ground station  | QGroundControl 4.2+ (MAVLink 2 support)              |
+| Flight sim      | ArduPilot SITL (ArduCopter, Copter-4.4 branch)       |
+| Python library  | `pymavlink >= 2.4.41`                                |
+| Version control | Git 2.47+                                            |
 
-For detailed setup steps, see [`环境搭建操作步骤.txt`](环境搭建操作步骤.txt) and [`20260701环境搭建和连接/MAVLink环境搭建与连接验证报告.tex`](20260701环境搭建和连接/MAVLink环境搭建与连接验证报告.tex).
+For detailed setup, see [`环境搭建操作步骤.txt`](环境搭建操作步骤.txt) and [`20260701环境搭建和连接/`](20260701环境搭建和连接/).
 
 ---
 
 ## Quick Start
+
+### 0. Get Windows IP
+
+In PowerShell:
+
+```powershell
+ipconfig
+```
+
+Find the IPv4 address on the VMware bridged adapter (e.g. `192.168.112.233`). Use it as `<WindowsIP>` below.
 
 ### 1. Start SITL (Ubuntu VM)
 
 ```bash
 cd ~/ardupilot/ArduCopter
 python3 ../Tools/autotest/sim_vehicle.py -v ArduCopter --console \
-    --out=udp:<WindowsHostIP>:14550 \
-    --out=udp:<WindowsHostIP>:14551
+    --out=udp:<WindowsIP>:14551
 ```
 
-- `14550` — QGroundControl (optional for phase 4)
-- `14551` — Python scripts
+Add `:14550` if QGC is needed. Wait for the `STABILIZE>` prompt in MAVProxy. For control scripts (geofence, etc.), wait an additional **15–20 seconds** for GPS/EKF to become ready.
 
-> Replace `<WindowsHostIP>` with your Windows LAN IP (use `ipconfig` in bridged mode). The first run compiles SITL and may take a while; wait until you see the `STABILIZE>` prompt.
+### 2. Install Python Dependencies (Windows)
 
-For phase-4 scripts only, SITL can output to port 14551 alone:
+Each phase directory includes `requirements.txt`:
 
 ```bash
-python3 ../Tools/autotest/sim_vehicle.py -v ArduCopter --console \
-    --out=udp:<WindowsHostIP>:14551
+pip install -r requirements.txt
 ```
 
-### 2. Connect QGC (Windows) — Weeks 2–3
+### 3. Run Scripts by Phase
 
-1. Launch QGroundControl; it should auto-connect on UDP 14550
-2. After connection, the simulated vehicle appears on the map
-3. Use **Analyze → MAVLink Inspector** to inspect `HEARTBEAT`, `GPS_RAW_INT`, etc.
-
-### 3. Run Scripts (Windows)
-
-**Weeks 2–3 — passive data logging:**
+#### Weeks 2–3 · Basic Interaction (passive listen; use with QGC)
 
 ```bash
 cd "20260703Python与MAVLink 2基础交互"
-pip install -r requirements.txt
 python basic_communication.py
+python basic_communication.py --duration 60 --output my_log.txt
 ```
 
-Optional arguments:
+Arm and fly in QGC to see live attitude and position in the terminal.
 
-```bash
-python basic_communication.py --duration 60          # Exit after 60 seconds
-python basic_communication.py --output my_log.txt    # Custom log file path
-python basic_communication.py --timeout 15           # Heartbeat wait timeout (seconds)
-```
-
-Arm, take off, or fly a mission in QGC to see live attitude and position data in the terminal. Press `Ctrl+C` to stop.
-
-**Weeks 3–4 — active control (no QGC required):**
+#### Weeks 3–4 · Advanced Protocols (active control; no QGC)
 
 ```bash
 cd "20260707深入MAVLink 2核心协议"
-pip install -r requirements.txt
-
-python param_ops.py              # Task 1: list & modify parameters
-python mission_upload.py         # Task 2: upload & fly mission (default 10 m)
-python command_control.py        # Task 3: arm → GUIDED → takeoff → RTL
+python param_ops.py              # Parameter read/write
+python mission_upload.py         # Mission upload & AUTO execution
+python command_control.py        # Arm → takeoff → waypoints → RTL
 ```
 
-See [`20260707深入MAVLink 2核心协议/README.md`](20260707深入MAVLink%202核心协议/README.md) for full CLI options, mission structure, and troubleshooting.
+#### Weeks 4–5 · Message Signing
+
+**Autopilot side (MAVProxy console):**
+
+```bash
+module load signing
+signing setup my_sitl_mavlink2_signing_key!!!!
+```
+
+**Windows script:**
+
+```bash
+cd "20260713安全签名"
+python secure_connection.py --mode all
+```
+
+#### Final Demo · Geofence Monitor
+
+```bash
+cd "20260713地理围栏实战"
+python geofence_monitor.py
+```
+
+Default fence: center 100 m north of Home, radius 30 m. On entry, the vehicle hovers and flies back out to the south boundary.
 
 ---
 
-## Core Scripts
+## Scripts by Phase
 
-### Weeks 2–3: `basic_communication.py`
+### Overview
 
-[`basic_communication.py`](20260703Python与MAVLink%202基础交互/basic_communication.py) implements four required tasks:
+| Script                   | Phase | Protocol / Function                              | Port         |
+| ------------------------ | ----- | ------------------------------------------------ | ------------ |
+| `basic_communication.py` | 2–3   | Connection, HEARTBEAT, attitude/position logging | 14551 listen |
+| `param_ops.py`           | 3–4   | `PARAM_*` parameter read/write                   | 14551        |
+| `mission_upload.py`      | 3–4   | `MISSION_*` upload & execution                   | 14551        |
+| `command_control.py`     | 3–4   | `COMMAND_LONG` arm/takeoff/RTL                   | 14551        |
+| `secure_connection.py`   | 4–5   | MAVLink 2 signing (3-mode comparison)            | 14551        |
+| `geofence_monitor.py`    | Final | Geofence monitoring & auto response              | 14551        |
 
-| Step | Function                            | Key APIs                                                     |
-| ---- | ----------------------------------- | ------------------------------------------------------------ |
-| 1    | Establish MAVLink connection        | `mavutil.mavlink_connection()` + `wait_heartbeat()`          |
-| 2    | Receive & parse HEARTBEAT           | `recv_match(type="HEARTBEAT")`, print `sysid` / `compid`     |
-| 3    | Request attitude & position streams | `SET_MESSAGE_INTERVAL` + `REQUEST_DATA_STREAM` (4 Hz)        |
-| 4    | Parse & output flight data          | `ATTITUDE` → Euler angles; `GLOBAL_POSITION_INT` → lat/lon/altitude |
+### `basic_communication.py` (Weeks 2–3)
 
-#### Sample Output
+| Step | Function        | Key APIs                                                  |
+| ---- | --------------- | --------------------------------------------------------- |
+| 1    | Connect         | `mavlink_connection()` + `wait_heartbeat()`               |
+| 2    | Parse heartbeat | `recv_match(type="HEARTBEAT")` → sysid / compid           |
+| 3    | Request streams | `SET_MESSAGE_INTERVAL` + `REQUEST_DATA_STREAM` (4 Hz)     |
+| 4    | Parse data      | `ATTITUDE` (rad→deg); `GLOBAL_POSITION_INT` (lat/lon/alt) |
+
+Sample output:
 
 ```
-[连接] 已收到心跳 | target_system=1, target_component=0
-[HEARTBEAT] sysid=1, compid=1, type=2, autopilot=3, base_mode=217, custom_mode=3, system_status=4
-[请求] SET_MESSAGE_INTERVAL -> ATTITUDE @ 4Hz
-[请求] SET_MESSAGE_INTERVAL -> GLOBAL_POSITION_INT @ 4Hz
+[HEARTBEAT] sysid=1, compid=1, ...
 [ATTITUDE]            roll=   0.11°, pitch=   0.11°, yaw=  -6.00°
-[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652375°, alt=584.12m, relative_alt=0.07m
+[GLOBAL_POSITION_INT] lat=-35.3632622°, lon=149.1652375°, alt=584.12m
 ```
 
-The `OutputLogger` class mirrors all output to both the terminal and a timestamped `mavlink_output_YYYYMMDD_HHMMSS.txt` file.
+### Advanced Protocol Scripts (Weeks 3–4)
 
-#### Data Fields
+| Script               | Flow                                                    |
+| -------------------- | ------------------------------------------------------- |
+| `param_ops.py`       | Fetch 1339 params → modify demo → verify → restore      |
+| `mission_upload.py`  | Upload Home + takeoff + waypoints A/B + RTL → AUTO      |
+| `command_control.py` | STABILIZE arm → GUIDED → 10 m takeoff → waypoints → RTL |
 
-| Message               | Output Fields    | Unit Conversion                         |
-| --------------------- | ---------------- | --------------------------------------- |
-| `ATTITUDE`            | roll, pitch, yaw | radians → degrees (°)                   |
-| `GLOBAL_POSITION_INT` | lat, lon         | integer × 10⁷ → degrees (°)             |
-| `GLOBAL_POSITION_INT` | alt              | millimeters → meters (m, AMSL)          |
-| `GLOBAL_POSITION_INT` | relative_alt     | millimeters → meters (m, above takeoff) |
+**Implementation notes:**
 
-### Weeks 3–4: Advanced Protocol Scripts
+- Mission seq=0 must be Home; AUTO mode is not armable directly — switch to STABILIZE first
+- Set `RTL_ALT = --alt × 100` (cm) before RTL to avoid climbing to the default 15 m
+- All scripts support `--output` for dual logging (terminal + file)
 
-| Script                                                       | Protocol       | Flow                                                       |
-| ------------------------------------------------------------ | -------------- | ---------------------------------------------------------- |
-| [`param_ops.py`](20260707深入MAVLink%202核心协议/param_ops.py) | `PARAM_*`      | List all params → modify 1–2 → read back → restore         |
-| [`mission_upload.py`](20260707深入MAVLink%202核心协议/mission_upload.py) | `MISSION_*`    | Upload Home + takeoff + waypoints A/B + RTL → AUTO execute |
-| [`command_control.py`](20260707深入MAVLink%202核心协议/command_control.py) | `COMMAND_LONG` | Arm → GUIDED → takeoff → hover → RTL                       |
+### `secure_connection.py` (Weeks 4–5)
 
-**Key implementation notes:**
+| Mode        | Description           | Expected Result                   |
+| ----------- | --------------------- | --------------------------------- |
+| `signed`    | Correct 32-byte key   | 1339 params + COMMAND_ACK success |
+| `unsigned`  | No signing configured | 0 params, no ACK                  |
+| `wrong-key` | Wrong key             | 0 params, no ACK                  |
 
-- **Mission structure:** ArduPilot requires seq=0 as Home; flight order is takeoff → waypoint A → waypoint B → RTL (5 mission items).
-- **RTL altitude:** Both `mission_upload.py` and `command_control.py` set `RTL_ALT = --alt × 100` (cm) before RTL so the vehicle does not climb to the default 15 m return altitude.
-- **Arm in AUTO:** Scripts switch to STABILIZE before arming when needed; AUTO mode is not armable directly.
-- **Logging:** All phase-4 scripts write timestamped logs; console output goes to stderr when logging to a file to avoid duplicate headers.
+```bash
+python secure_connection.py --mode all
+python secure_connection.py --mode signed --fetch-timeout 60
+python secure_connection.py --key my_sitl_mavlink2_signing_key!!!!
+```
+
+### `geofence_monitor.py` (Final Demo)
+
+| Parameter  | Default                                   |
+| ---------- | ----------------------------------------- |
+| Center     | 100 m north of Home                       |
+| Radius     | 30 m                                      |
+| Exit point | 30 m south of center (70 m north of Home) |
+| Fly target | 115 m north of Home                       |
+| Altitude   | 10 m                                      |
+
+**Auto flow:** GPS ready → arm → takeoff → fly north → enter fence → LOITER → reverse to south boundary → LOITER
+
+```bash
+python geofence_monitor.py
+python geofence_monitor.py --center-north 100 --radius 30 --nav-wait 60
+```
 
 ---
 
-## Week 1 Deliverables
+## Deliverables by Phase
 
-- **MAVLink research:** protocol overview, comparison with DDS/ROS, system architecture and roles
-- **Environment setup:** Windows (Git, Python, QGC) + Ubuntu VM (ArduPilot SITL)
-- **Connection verification:** QGC–SITL link, MAVLink Inspector, arm/takeoff command feedback
-- **Troubleshooting notes:** Git SSL, Qt Kit configuration, VM bridged networking, UDP port conflicts
+### Week 1 · Environment Setup
 
-See [`20260701环境搭建和连接/MAVLink环境搭建与连接验证报告.tex`](20260701环境搭建和连接/MAVLink环境搭建与连接验证报告.tex).
+- MAVLink protocol research (comparison with DDS, ROS)
+- Windows (Git, Python, QGC) + Ubuntu VM (ArduPilot SITL) configuration
+- QGC–SITL connection verification, MAVLink Inspector
+- Troubleshooting: Git SSL, VM bridged networking, UDP ports
 
----
+📁 [`20260701环境搭建和连接/`](20260701环境搭建和连接/)
 
-## Weeks 2–3 Deliverables
+### Weeks 2–3 · Basic Interaction
 
-- Implemented `basic_communication.py`: MAVLink 2 connection, heartbeat parsing, stream subscription, attitude/position parsing
-- Dual-port design: QGC (14550) + Python (14551)
+- `basic_communication.py`: all four core tasks completed
+- Dual-port design: QGC 14550 + script 14551
 - Synchronized terminal + file logging
-- End-to-end validation with ArduPilot SITL (Euler angles, lat/lon, relative altitude)
 
-See [`20260703Python与MAVLink 2基础交互/Python与MAVLink2基础交互汇报.tex`](20260703Python与MAVLink%202基础交互/Python与MAVLink2基础交互汇报.tex).
+📁 [`20260703Python与MAVLink 2基础交互/`](20260703Python与MAVLink%202基础交互/)
+
+### Weeks 3–4 · Advanced Protocols
+
+- Parameter protocol: 1339 params fetched, read/write verified
+- Mission protocol: 5 mission items uploaded and executed in AUTO
+- Command protocol: full arm → takeoff → waypoints → RTL sequence
+
+📁 [`20260707深入MAVLink 2核心协议/`](20260707深入MAVLink%202核心协议/) · see [`README.md`](20260707深入MAVLink%202核心协议/README.md)
+
+### Weeks 4–5 · Message Signing
+
+- `secure_connection.py`: signing setup + three-mode comparison
+- Result: accepted with correct key; rejected without key or with wrong key
+
+📁 [`20260713安全签名/`](20260713安全签名/) · see [`README.md`](20260713安全签名/README.md)
+
+### Final Demo · Geofence
+
+- `geofence_monitor.py`: circular geofence + auto hover + reverse fly-out
+- End-to-end SITL validation (~47 seconds)
+
+📁 [`20260713地理围栏实战/`](20260713地理围栏实战/) · see [`README.md`](20260713地理围栏实战/README.md)
 
 ---
 
-## Weeks 3–4 Deliverables
+## Reports
 
-- **`param_ops.py`:** `param_request_list()` to fetch all parameters; modify and verify `SR1_EXT_STAT` / `SR1_EXTRA1`; restore defaults after demo
-- **`mission_upload.py`:** Build and upload a 4-waypoint mission (takeoff → A → B → RTL); set flight params (`WPNAV_SPEED`, `RTL_ALT`, etc.); execute in AUTO with monitoring
-- **`command_control.py`:** Full command sequence via `COMMAND_LONG` — arm, GUIDED mode, `NAV_TAKEOFF`, `NAV_RETURN_TO_LAUNCH` with ACK and altitude confirmation
-- Validated in SITL with run logs (`my_param_log.txt`, `mission_output_*.txt`, `command_output_*.txt`)
-
-See [`20260707深入MAVLink 2核心协议/README.md`](20260707深入MAVLink%202核心协议/README.md).
+| Report           | Path                                                         | Description          |
+| ---------------- | ------------------------------------------------------------ | -------------------- |
+| **Full project** | [`MAVLink实习项目总报告.pdf`](MAVLink实习项目总报告.pdf)     | 10 pages, all phases |
+| Week 1           | [`20260701环境搭建和连接/MAVLink环境搭建与连接验证报告.tex`](20260701环境搭建和连接/MAVLink环境搭建与连接验证报告.tex) | Research + env setup |
+| Weeks 2–3        | [`20260703Python与MAVLink 2基础交互/Python与MAVLink2基础交互汇报.tex`](20260703Python与MAVLink%202基础交互/Python与MAVLink2基础交互汇报.tex) | Basic interaction    |
+| Weeks 3–4        | [`20260707深入MAVLink 2核心协议/深入MAVLink2核心协议汇报.tex`](20260707深入MAVLink%202核心协议/深入MAVLink2核心协议汇报.tex) | Advanced protocols   |
+| Signing          | [`20260713安全签名/MAVLink2安全签名报告.pdf`](20260713安全签名/MAVLink2安全签名报告.pdf) | Signing verification |
+| Geofence         | [`20260713地理围栏实战/地理围栏实战项目报告.pdf`](20260713地理围栏实战/地理围栏实战项目报告.pdf) | Final demo           |
 
 ---
 
 ## FAQ
 
-| Issue                               | Fix                                                          |
-| ----------------------------------- | ------------------------------------------------------------ |
-| Script times out, no HEARTBEAT      | Ensure SITL is running and `--out` includes your Windows IP and port 14551 |
-| QGC shows Disconnected              | Verify SITL sends to Windows IP:14550; disable QGC NMEA on port 14550 |
-| VM cannot ping Windows host         | Switch VMware to **bridged mode** and reboot the VM          |
-| `sim_vehicle.py: command not found` | Run `Tools/environment_install/install-prereqs-ubuntu.sh -y` in the ArduPilot repo, then restart the terminal |
-| Git clone SSL error                 | Run `git config --global http.sslBackend schannel`           |
-| AUTO mode not armable               | Switch to STABILIZE before arming (handled in phase-4 scripts) |
-| RTL climbs to ~15 m before landing  | Set `RTL_ALT` to match takeoff altitude; phase-4 scripts do this automatically via `--alt` |
-| QGC conflicts with phase-4 scripts  | Disconnect QGC or do not run it while phase-4 scripts are controlling the vehicle |
+### Connection & Network
+
+| Issue                          | Cause                             | Fix                                                  |
+| ------------------------------ | --------------------------------- | ---------------------------------------------------- |
+| Script times out, no HEARTBEAT | SITL not running or wrong `--out` | Ensure SITL is up; use `--out=udp:<WindowsIP>:14551` |
+| Still no data with `127.0.0.1` | 127.0.0.1 is the VM localhost     | Use Windows bridged IP instead                       |
+| VM cannot ping Windows         | Wrong network mode                | Switch VMware to **bridged mode** and reboot VM      |
+| QGC shows Disconnected         | Port/IP mismatch                  | Verify SITL sends to Windows IP:14550                |
+
+### Flight Control
+
+| Issue                             | Cause                   | Fix                                                |
+| --------------------------------- | ----------------------- | -------------------------------------------------- |
+| Cannot arm in AUTO                | AUTO is not armable     | Switch to STABILIZE first (handled in scripts)     |
+| RTL climbs to ~15 m               | Default RTL_ALT=1500 cm | Set `RTL_ALT=--alt×100` before RTL                 |
+| GUIDED fails: `requires position` | GPS/EKF not ready       | Wait 15–20 s after SITL start; use `--nav-wait 60` |
+| PreArm: EKF3 waiting for GPS      | Same as above           | Wait for `fix_type >= 3` before arming             |
+| QGC conflicts with scripts        | Both sending commands   | Disconnect QGC while running control scripts       |
+
+### Message Signing
+
+| Issue                           | Cause                     | Fix                                              |
+| ------------------------------- | ------------------------- | ------------------------------------------------ |
+| All three modes succeed         | Signing not enabled on FC | Run `signing setup KEY` in MAVProxy              |
+| Script crashes after signing    | Wrong callback signature  | Use `(mav, msgId) -> bool`                       |
+| Signing command has no effect   | Wrong terminal window     | Run in MAVProxy `STABILIZE>`, not the log window |
+| Partial params with correct key | Timeout too short         | Use `--fetch-timeout 60`                         |
+
+### Other
+
+| Issue                      | Fix                                                          |
+| -------------------------- | ------------------------------------------------------------ |
+| Git clone SSL error        | `git config --global http.sslBackend schannel`               |
+| `sim_vehicle.py` not found | Run `Tools/environment_install/install-prereqs-ubuntu.sh -y` in ArduPilot repo |
 
 ---
 
-## Roadmap
+## Milestones
 
-- [x] Parameter read/write (`PARAM_REQUEST_READ` / `PARAM_SET`)
-- [x] Mission waypoint upload and execution
-- [x] Command control (arm, takeoff, mode switch, etc.)
-- [ ] MAVLink 2 signing enablement and verification
-- [ ] Geofence monitoring with auto hover / return script
+- [x] MAVLink research and environment setup
+- [x] QGC–SITL connection verification
+- [x] Python basic interaction (`basic_communication.py`)
+- [x] Parameter read/write (`PARAM_*`)
+- [x] Mission upload and execution (`MISSION_*`)
+- [x] Command control (`COMMAND_LONG`)
+- [x] MAVLink 2 signing verification
+- [x] Geofence monitoring demo
 
 ---
 
@@ -274,7 +407,9 @@ See [`20260707深入MAVLink 2核心协议/README.md`](20260707深入MAVLink%202�
 
 - [MAVLink Documentation](https://mavlink.io/en/)
 - [pymavlink Documentation](https://mavlink.io/en/mavgen_python/)
+- [MAVLink 2 Message Signing](https://mavlink.io/en/guide/message_signing.html)
 - [ArduPilot SITL Documentation](https://ardupilot.org/dev/docs/sitl-simulator-software-in-the-loop.html)
+- [ArduPilot MAVLink2 Signing](https://ardupilot.org/dev/docs/common-MAVLink2-signing.html)
 - [QGroundControl User Guide](https://docs.qgroundcontrol.com/master/en/)
 
 ---
