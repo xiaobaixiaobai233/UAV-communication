@@ -42,8 +42,6 @@ A systematic internship project for **MAVLink 2** drone communication: from prot
 ```
 无人机通信/
 ├── README.md
-├── 任务.txt                               # Internship task schedule
-├── 环境搭建操作步骤.txt                    # Environment setup checklist
 ├── MAVLink实习项目总报告.tex / .pdf        # Full project report
 │
 ├── 20260701环境搭建和连接/                 # Week 1
